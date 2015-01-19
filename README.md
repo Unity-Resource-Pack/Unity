@@ -1,8 +1,6 @@
-Unity
-===============
+![alt tag](http://i.imgur.com/CSXhTzt.png)
 
-#####Unity Resource Pack
-
+#####Updates
 Life has been keeping me quite busy these days and I have found myself with less and less free time to work on the Unity pack with each passing day. To solve that problem, I have opened a repo for anyone to contribute to (thanks to VapourDrive for the idea).
 
 Not all submitted textures will be merged. If I feel your textures do not fit with my current design aesthetic, I simply can't include them. The entire point of Unity is to maintain a unified look. Please do not feel discouraged if your textures aren't used; it doesn't mean they're bad, they just don't match my style.
