@@ -8,8 +8,10 @@ Not all submitted textures will be merged. If I feel your textures do not fit wi
 Please note that not all textures have been updated for 1.7.10 nor have they been updated for their latest mod versions. I will be adding version notes shortly to hopefully keep things organized.
 
 #####Mods In Progress
-The following chart displays current mod retexture progress. 
-Avoid retexturing these as it will probably be a waste of time. ;)
+The following chart displays current mod retexture progress.
+
+Avoid retexturing these as it will probably be a waste of your time. 
+
 
 | Mod Name            | Status          | Artist          |
 | ------------------  |:-------------:  | :-------------: |
@@ -19,6 +21,7 @@ Avoid retexturing these as it will probably be a waste of time. ;)
 | Refined Relocation  | Pending         | CyanideX        |
 | Tinkers             | Pending         | CyanideX        |
 | Ars Magica 2        | On Hold         | CyanideX        |
+
 
 
 #####Contact
