@@ -1,5 +1,7 @@
-# Unity
-Unity Resource Pack
+Unity
+===============
+
+#####Unity Resource Pack
 
 Life has been keeping me quite busy these days and I have found myself with less and less free time to work on the Unity pack with each passing day. To solve that problem, I have opened a repo for anyone to contribute to (thanks to VapourDrive for the idea).
 
@@ -7,4 +9,5 @@ Not all submitted textures will be merged. If I feel your textures do not fit wi
 
 Please note that not all textures have been updated for 1.7.10 nor have they been updated for their latest mod versions. I will be adding version notes shortly to hopefully keep things organized.
 
-If you have any question, please message me on twitter or in IRC at #MinecraftUnity
+#####Contact
+If you have any question, please message me on twitter @electrodynamix or in IRC #MinecraftUnity
