@@ -1,0 +1,9 @@
+{"immibis.core.sprites":
+	{"spriteSize": 32, "sprites": [
+		["top", [0, 0]],
+		["bottom", [1, 0]],
+		["front", [2, 0]],
+		["back", [3, 0]],
+		["side", [4, 0]]
+	]}
+}
