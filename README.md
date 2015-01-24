@@ -22,7 +22,9 @@ Avoid retexturing these as it will probably be a waste of your time.
 | Tinkers             | Pending         | CyanideX        |
 | Ars Magica 2        | On Hold         | CyanideX        |
 
+##Installation
 
+Click the __Download ZIP__ button on the bottom right, then un-zip the file to your `.minecraft/resourcepacks` folder.
 
 #####Contact
 If you have any question, please message me on twitter @electrodynamix or in IRC #MinecraftUnity
