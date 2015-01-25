@@ -16,11 +16,13 @@ Avoid retexturing these as it will probably be a waste of your time.
 | Mod Name            | Status          | Artist          |
 | ------------------  |:-------------:  | :-------------: |
 | EnderIO             | Active          | CyanideX        |
-| GregTech            | Actve           | CyanideX        |
+| GregTech            | Active          | CyanideX        |
 | IC2                 | Active          | CyanideX        |
 | Refined Relocation  | Pending         | CyanideX        |
 | Tinkers             | Pending         | CyanideX        |
 | Ars Magica 2        | On Hold         | CyanideX        |
+| Pressure Pipes      | DONE            | VapourDrive     |
+| Mekanism            | Active          | VapourDrive     |
 
 ##Installation
 
