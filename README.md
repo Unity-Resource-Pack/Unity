@@ -26,7 +26,7 @@ Avoid retexturing these as it will probably be a waste of your time.
 
 #####Installation
 
-Click the __Download ZIP__ button on the bottom right, then un-zip the file to your `.minecraft/resourcepacks` folder.
+Click the ![alt tag](http://i.imgur.com/IubdYCH.png) button on the bottom right, then un-zip the file to your `.minecraft/resourcepacks` folder.
 
 #####Contact
 If you have any question, please message me on twitter @electrodynamix or in IRC #MinecraftUnity
