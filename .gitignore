@@ -43,3 +43,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+### Linux ###
+# Ubuntu temp save files
+*~
