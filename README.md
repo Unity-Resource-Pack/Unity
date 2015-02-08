@@ -10,13 +10,13 @@ Please note that not all textures have been updated for 1.7.10 nor have they bee
 
 Photoshop Template
 ------
-I hope this may be of use to those of you interested in texturing for Unity; I've tried to include as manya samples and details as possible to start you off in the right direction. You can download the PSD [here](https://dl.dropboxusercontent.com/u/2609913/Minecraft/Unity/unityTemplate.psd?dl=1 "Unity - PSD").
+I hope this may be of use to those of you interested in texturing for Unity; I've tried to include as many samples and details as possible to start you off in the right direction. You can download the PSD [here](https://dl.dropboxusercontent.com/u/2609913/Minecraft/Unity/unityTemplate.psd?dl=1 "Unity - PSD").
 
 Mods In Progress
 ------
 The following chart displays current mod retexture progress.
 
-Avoid retexturing these as it will probably be a waste of your time. 
+Please avoid retexturing these as it will probably be a waste of your time. 
 
 
 | Mod Name            | Status          | Artist          |
@@ -39,4 +39,4 @@ Click the _Download ZIP_ button on the bottom right, then un-zip the file to you
 
 Contact
 ------
-If you have any question, please message me on twitter @electrodynamix or in IRC #MinecraftUnity
+If you have any questions, please message me on Twitter @electrodynamix or in the #MinecraftUnity IRC channel. Thanks!
