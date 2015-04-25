@@ -1,0 +1,74 @@
+============================
+Short Description
+============================
+
+JABBA dynamically creates textures for the barrels and items during runtime whenever a resource pack is (re)loaded. It does so to avoid doing these calculations during the render loop. This helps speed up rendering on lower end computers or when there are many barrels visible on screen at once.
+
+The textures that are colored by code are the border pieces(eg: barrel_side_border.png)  These pieces should be created with a neutral midtone grey as they will have colors overlaid on top of them. The other pieces can be colored as wished.
+
+When the textures are being built, any non transparent portion of the background is overlaid on top of the colored border texture.  If in Photoshop or GIMP this would be the same as having the background and border textures on two separate layers, with the colored border texture being the lower layer.
+
+IMPORTANT:
+**** All related textures must match in dimensional size. ****
+
+Example:
+barrel_label_background is by default 32x32, and must be the same dimensions as barrel_label_border, barrel_side_background, barrel_side_border, barrel_top_background, barrel_top_border, and barrel_top_label.  If any of these files have a different dimension than the others, your in game barrels will be partially or fully transparent.
+
+
+============================
+More Technical Details
+============================
+
+The basic process it uses is:
+1) find the material used for each tier(checks both blocks and items), and get it's average color(*see below)
+2) "Grain Merge" that color onto the base texture we wish to color(usually the block borders)
+3) Determine and store the "best" contrasting text color(white or black) (*see below)
+4) Overlay the other pieces that we wish, skipping any transparent pixels
+5) Take the finished texture and upload it to the OpenGL texture sheet
+
+It will only do these calculations once per resource manager reload.
+
+For finding the average color:
+- Initialze some totals to 0 for R, G, B
+- For each pixel in the source image:
+    - if the pixel is not transparent, add it's RGB values to the totals
+- Divide each total by the number of added pixels
+- Return the totals as the average color
+
+For finding the best contrast text color:
+JABBA converts the color to YIQ which weights each component(R, G, or B) based on its "impact" visually and then returns white or black depending.
+The actual formula it uses is:
+YIQ = ((Red * 299) + (Green * 587) + (Blue * 114)) / 1000;
+If the YIQ value is greater than or equal to 128 use black text, otherwise use white text.
+
+
+============================
+Some Standard Colors
+============================
+*NOTE* These are the average color of the item, not the expected color if used as a dye. Since most items have a black border they will be darker/muted somewhat.
+
+Default MC texture pack calculated colors:
+Color for [Oak Wood Planks]: {R: 156, G: 127, B: 78}
+Color for [Iron Ingot]: {R: 135, G: 135, B: 135}
+Color for [Gold Ingot]: {R: 180, G: 166, B: 44}
+Color for [Diamond]: {R: 88, G: 172, B: 158}
+Color for [Obsidian]: {R: 20, G: 18, B: 29}
+Color for [End Stone]: {R: 221, G: 223, B: 165}
+Color for [Emerald]: {R: 46, G: 168, B: 80}
+Color for [Slimeball]: {R: 101, G: 154, B: 92}
+Color for [Ink Sac]: {R: 49, G: 43, B: 48}
+Color for [Rose Red]: {R: 160, G: 32, B: 32}
+Color for [Cactus Green]: {R: 59, G: 85, B: 19}
+Color for [Cocoa Beans]: {R: 96, G: 57, B: 31}
+Color for [Lapis Lazuli]: {R: 36, G: 74, B: 166}
+Color for [Purple Dye]: {R: 133, G: 61, B: 172}
+Color for [Cyan Dye]: {R: 33, G: 103, B: 132}
+Color for [Light Gray Dye]: {R: 144, G: 144, B: 154}
+Color for [Gray Dye]: {R: 107, G: 107, B: 107}
+Color for [Pink Dye]: {R: 196, G: 122, B: 160}
+Color for [Lime Dye]: {R: 95, G: 162, B: 11}
+Color for [Dandelion Yellow]: {R: 186, G: 162, B: 32}
+Color for [Light Blue Dye]: {R: 100, G: 140, B: 196}
+Color for [Magenta Dye]: {R: 170, G: 80, B: 164}
+Color for [Orange Dye]: {R: 198, G: 123, B: 35}
+Color for [Bone Meal]: {R: 155, G: 155, B: 168}
