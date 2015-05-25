@@ -39,4 +39,4 @@ Click the _Download ZIP_ button on the bottom right, then un-zip the file to you
 
 Contact
 ------
-If you have any questions, please message me on Twitter @electrodynamix or in the #MinecraftUnity IRC channel. Thanks!
+If you have any questions, please message me on Twitter @theCyanideX or in the #MinecraftUnity IRC channel. Thanks!
