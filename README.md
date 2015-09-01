@@ -22,15 +22,15 @@ Please avoid retexturing these as it will probably be a waste of your time.
 | Mod Name            | Status          | Artist          |
 | ------------------  |:-------------:  | :-------------: |
 | EnderIO             | Active          | CyanideX        |
-| GregTech            | Active          | CyanideX        |
-| IC2                 | Active          | CyanideX        |
-| Gendustry           | Active          | CyanideX        |
+| GregTech            | On Hold         | CyanideX        |
+| IC2                 | On Hold         | CyanideX        |
+| Gendustry           | On Hold         | CyanideX        |
 | Refined Relocation  | Pending         | CyanideX        |
-| Tinkers             | Pending         | CyanideX        |
+| Tinkers             | On Hold         | CyanideX        |
 | Ars Magica 2        | On Hold         | CyanideX        |
 | Pressure Pipes      | DONE            | VapourDrive     |
-| Mekanism            | Active          | VapourDrive     |
-| Thermal Foundation  | Active          | VapourDrive     |
+| Mekanism            | Active          | CyanideX        |
+| Thermal Foundation  | DONE            | VapourDrive     |
 | Extra Bees          | Active          | BBolt           |
 
 Installation
