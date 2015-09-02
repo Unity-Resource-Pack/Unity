@@ -31,7 +31,7 @@ Please avoid retexturing these as it will probably be a waste of your time.
 | Pressure Pipes      | DONE            | VapourDrive     |
 | Mekanism            | Active          | CyanideX        |
 | Thermal Foundation  | DONE            | VapourDrive     |
-| Extra Bees          | Active          | BBoldt           |
+| Extra Bees          | Active          | BBoldt          |
 
 Installation
 ------
