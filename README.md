@@ -26,7 +26,10 @@ Please avoid retexturing these as it will probably be a waste of your time.
 | IC2                 | On Hold         | CyanideX        |
 | Gendustry           | On Hold         | CyanideX        |
 | Refined Relocation  | Pending         | CyanideX        |
-| Tinkers             | On Hold         | CyanideX        |
+| Tinkers             | Active          | MechWarrior99   |
+| Storage Drawers     | Active          | MechWarrior99   |
+| Biomes o'Plenty     | Active          | MechWarrior99   |
+| NuclearCraft        | Active          | MechWarrior99   |      
 | Ars Magica 2        | On Hold         | CyanideX        |
 | Pressure Pipes      | DONE            | VapourDrive     |
 | Mekanism            | Active          | CyanideX        |
