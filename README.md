@@ -35,7 +35,7 @@ Please avoid retexturing these as it will probably be a waste of your time.
 | Minecraft 1.8/1.9   | Active          | Yulife          |
 | Blood Magic (Update)| Active          | BBoldt          |
 | Zetta Industries    | Planned         | BBoldt          |
-| Magig Bees          | Planned         | BBoldt          |
+| Magic Bees          | Planned         | BBoldt          |
 | Extra Bees          | Planned         | BBoldt          |
 | Avaritia            | Active          | ZiaAvenicia     |
 
