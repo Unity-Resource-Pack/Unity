@@ -21,17 +21,23 @@ Please avoid retexturing these as it will probably be a waste of your time.
 
 | Mod Name            | Status          | Artist          |
 | ------------------  |:-------------:  | :-------------: |
+| Mekanism            | Active          | CyanideX        |
 | EnderIO             | Active          | CyanideX        |
 | GregTech            | On Hold         | CyanideX        |
 | IC2                 | On Hold         | CyanideX        |
 | Gendustry           | On Hold         | CyanideX        |
-| Refined Relocation  | Pending         | CyanideX        |
-| Tinkers             | On Hold         | CyanideX        |
 | Ars Magica 2        | On Hold         | CyanideX        |
-| Pressure Pipes      | DONE            | VapourDrive     |
-| Mekanism            | Active          | CyanideX        |
-| Thermal Foundation  | DONE            | VapourDrive     |
-| Extra Bees          | Active          | BBoldt           |
+| Refined Relocation  | Pending         | CyanideX        |
+| Tinkers             | Active          | MechWarrior99   |
+| Storage Drawers     | Active          | MechWarrior99   |
+| Biomes o'Plenty     | Active          | MechWarrior99   |
+| NuclearCraft        | Active          | MechWarrior99   |      
+| Minecraft 1.8/1.9   | Active          | Yulife          |
+| Blood Magic (Update)| Active          | BBoldt          |
+| Zetta Industries    | Planned         | BBoldt          |
+| Magic Bees          | Planned         | BBoldt          |
+| Extra Bees          | Planned         | BBoldt          |
+| Avaritia            | Active          | ZiaAvenicia     |
 
 Installation
 ------
