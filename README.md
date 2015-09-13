@@ -26,7 +26,6 @@ Please avoid retexturing these as it will probably be a waste of your time.
 | GregTech            | On Hold         | CyanideX        |
 | IC2                 | On Hold         | CyanideX        |
 | Gendustry           | On Hold         | CyanideX        |
-| Ars Magica 2        | On Hold         | CyanideX        |
 | Refined Relocation  | Pending         | CyanideX        |
 | Tinkers             | Active          | MechWarrior99   |
 | Storage Drawers     | Active          | MechWarrior99   |
