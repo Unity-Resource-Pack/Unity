@@ -8,6 +8,11 @@ Not all submitted textures will be merged. If I feel your textures do not fit wi
 
 Please note that not all textures have been updated for 1.7.10 nor have they been updated for their latest mod versions. I will be adding version notes shortly to hopefully keep things organized.
 
+Tutorials
+------
+![alt tag](http://i.imgur.com/9NJg2D3.png)
+
+
 Photoshop Template
 ------
 I hope this may be of use to those of you interested in texturing for Unity; I've tried to include as many samples and details as possible to start you off in the right direction. You can download the PSD [here](https://dl.dropboxusercontent.com/u/2609913/Minecraft/Unity/unityTemplate.psd?dl=1 "Unity - PSD").
