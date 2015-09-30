@@ -36,7 +36,6 @@ Please avoid retexturing these as it will probably be a waste of your time.
 | Storage Drawers     | Active          | MechWarrior99   |
 | Biomes o'Plenty     | Active          | MechWarrior99   |
 | NuclearCraft        | Active          | MechWarrior99   |      
-| Minecraft 1.8/1.9   | Active          | Yulife          |
 | Blood Magic (Update)| Active          | BBoldt          |
 | Zetta Industries    | Planned         | BBoldt          |
 | Magic Bees          | Planned         | BBoldt          |
