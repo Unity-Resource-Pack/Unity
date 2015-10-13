@@ -32,9 +32,9 @@ Please avoid retexturing these as it will probably be a waste of your time.
 | IC2                 | On Hold         | CyanideX        |
 | Gendustry           | On Hold         | CyanideX        |
 | Refined Relocation  | Pending         | CyanideX        |
-| Tinkers             | Active          | MechWarrior99   |
+| Tinkers' Construct  | Active          | MechWarrior99   |
 | Storage Drawers     | Active          | MechWarrior99   |
-| Biomes o'Plenty     | Active          | MechWarrior99   |
+| Biomes o'Plenty     | Active          | MechWarrior99 & Yulife   |
 | NuclearCraft        | Active          | MechWarrior99   |      
 | Blood Magic (Update)| Active          | BBoldt          |
 | Zetta Industries    | Planned         | BBoldt          |
