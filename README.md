@@ -34,9 +34,9 @@ Please avoid retexturing these as it will probably be a waste of your time.
 | Refined Relocation  | Pending         | CyanideX        |
 | Tinkers' Construct  | Active          | MechWarrior99   |
 | Storage Drawers     | Active          | MechWarrior99   |
-| Biomes o'Plenty     | Active          | MechWarrior99 & Yulife   |
+| Biomes o'Plenty     | Active          | MechWarrior99 & Yulife |
 | NuclearCraft        | Active          | MechWarrior99   |      
-| Blood Magic (Update)| Active          | BBoldt          |
+| Blood Magic (Update)| Active          | BBoldt & Yulife |
 | Zetta Industries    | Planned         | BBoldt          |
 | Magic Bees          | Planned         | BBoldt          |
 | Extra Bees          | Planned         | BBoldt          |
