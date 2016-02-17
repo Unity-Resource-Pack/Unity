@@ -21,7 +21,7 @@ Mods In Progress
 ------
 The following chart displays current mod retexture progress.
 
-Please avoid retexturing these as it will probably be a waste of your time. 
+Please avoid retexturing these as it will probably be a waste of your time.
 
 
 | Mod Name            | Status          | Artist          |
@@ -31,15 +31,15 @@ Please avoid retexturing these as it will probably be a waste of your time.
 | GregTech            | On Hold         | CyanideX        |
 | IC2                 | On Hold         | CyanideX        |
 | Gendustry           | On Hold         | CyanideX        |
-| Refined Relocation  | Pending         | CyanideX        |
 | Tinkers' Construct  | Active          | MechWarrior99   |
 | Storage Drawers     | Active          | MechWarrior99   |
 | Biomes o'Plenty     | Active          | MechWarrior99 & Yulife |
 | NuclearCraft        | Active          | MechWarrior99   |      
-| Zetta Industries    | Active          | BBoldt          |
-| Magic Bees          | Planned         | BBoldt          |
-| Extra Bees          | Planned         | BBoldt          |
-| Avaritia            | Active          | ZiaAvenicia     |
+| EZ Storage          | Planned         | BBoldt          |
+| Hydraulicraft       | Planned         | BBoldt          |
+| Actually Additions  | Planned         | BBoldt          |
+| Avaritia            | On Hold         | ZiaAvenicia     |
+| everything else     | Active          | Yulife          |
 
 Installation
 ------
