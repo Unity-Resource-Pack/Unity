@@ -1,0 +1,10 @@
+#1 Make two screenshots, one of Default and one of Unity in Fullscreen (DO NOT MOVE INBETWEEN SHOTS!)
+#2 Open the two screenshots in GIMP or Photoshop
+#3 Create a new image that has the proportions of your screenshots and make two layers
+#4 Put the screenshots in each of the layers
+#5 Open Default_text.png and Unity_text.png from the folder this text file is in and copy them centered on each of the layers of the screenshots sensibly
+#6 Open border.png from the same folder and copy it on both layers
+#7 For GIMP, go to Filter -> Animation -> Optimise (Difference)
+#8 Go to File -> Export As -> Name your GIF and add a suffix of .gif as the file type and click on Export
+#9 For Gimp, click "As Animation" and enter the amount of delay you want (I use 1300ms) and click "Use delay entered above for all frames"
+#10 Export and uploaded with either Imgur or ShareX
