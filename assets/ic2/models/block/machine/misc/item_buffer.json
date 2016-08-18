@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube",
+	"textures": {
+		"particle": "ic2:blocks/machine/misc/item_buffer_left",
+		"down": "ic2:blocks/machine/misc/item_buffer_bottom",
+		"up": "ic2:blocks/machine/misc/item_buffer_top",
+		"north": "ic2:blocks/machine/misc/item_buffer_frontback",
+		"east": "ic2:blocks/machine/misc/item_buffer_left",
+		"south": "ic2:blocks/machine/misc/item_buffer_frontback",
+		"west": "ic2:blocks/machine/misc/item_buffer_right"
+	}
+}

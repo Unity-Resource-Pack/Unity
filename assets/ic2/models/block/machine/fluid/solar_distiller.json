@@ -1,0 +1,8 @@
+{
+	"parent": "block/cube_bottom_top",
+	"textures": {
+		"side": "ic2:blocks/machine/fluid/solar_distiller_sides",
+		"bottom": "ic2:blocks/machine/fluid/solar_distiller_bottom",
+		"top": "ic2:blocks/machine/fluid/solar_distiller_top"
+	}
+}

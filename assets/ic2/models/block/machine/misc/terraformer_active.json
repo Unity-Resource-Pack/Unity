@@ -1,0 +1,8 @@
+{
+	"parent": "block/cube_bottom_top",
+	"textures": {
+		"side": "ic2:blocks/machine/misc/terraformer_sides_active",
+		"bottom": "ic2:blocks/machine/misc/terraformer_bottom",
+		"top": "ic2:blocks/machine/misc/terraformer_top"
+	}
+}

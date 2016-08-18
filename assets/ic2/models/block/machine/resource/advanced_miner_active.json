@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube",
+	"textures": {
+		"particle": "ic2:blocks/machine/resource/advanced_miner_leftrightback_active",
+		"down": "ic2:blocks/machine/resource/advanced_miner_bottom_active",
+		"up": "ic2:blocks/machine/resource/advanced_miner_top",
+		"north": "ic2:blocks/machine/resource/advanced_miner_front_active",
+		"east": "ic2:blocks/machine/resource/advanced_miner_leftrightback_active",
+		"south": "ic2:blocks/machine/resource/advanced_miner_leftrightback_active",
+		"west": "ic2:blocks/machine/resource/advanced_miner_leftrightback_active"
+	}
+}

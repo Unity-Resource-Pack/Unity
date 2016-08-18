@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gui width="176" height="166">
+    <text y="6" align="center">%name%</text>
+    <slot name="inputA" x="46" y="16"/>
+    <slot name="inputB" x="64" y="16"/>
+    <slot name="outputA" x="103" y="30" style="large"/>
+    <slot name="outputB" x="121" y="30" style="large"/>
+    <slot name="discharge" x="55" y="52"/>
+    <slotgrid name="upgrade" x="151" y="25" cols="1"/>
+    <energygauge x="59" y="37"/>
+    <gauge name="progress" x="80" y="35" style="progressarrow"/>
+    <playerInventory x="7" y="83"/>
+</gui>

@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube",
+	"textures": {
+		"particle": "ic2:blocks/machine/processing/advanced/block_cutter_leftright",
+		"down": "ic2:blocks/machine/processing/advanced/block_cutter_bottom",
+		"up": "ic2:blocks/machine/processing/advanced/block_cutter_top",
+		"north": "ic2:blocks/machine/processing/advanced/block_cutter_front",
+		"east": "ic2:blocks/machine/processing/advanced/block_cutter_leftright",
+		"south": "ic2:blocks/machine/processing/advanced/block_cutter_back",
+		"west": "ic2:blocks/machine/processing/advanced/block_cutter_leftright"
+	}
+}

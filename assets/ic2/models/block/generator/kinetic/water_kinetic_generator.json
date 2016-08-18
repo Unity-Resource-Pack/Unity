@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube",
+	"textures": {
+		"particle": "ic2:blocks/generator/kinetic/water_kinetic_generator_leftright",
+		"down": "ic2:blocks/generator/kinetic/water_kinetic_generator_bottom",
+		"up": "ic2:blocks/generator/kinetic/water_kinetic_generator_top",
+		"north": "ic2:blocks/generator/kinetic/water_kinetic_generator_front",
+		"east": "ic2:blocks/generator/kinetic/water_kinetic_generator_leftright",
+		"south": "ic2:blocks/generator/kinetic/water_kinetic_generator_back",
+		"west": "ic2:blocks/generator/kinetic/water_kinetic_generator_leftright"
+	}
+}

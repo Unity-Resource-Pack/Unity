@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube",
+	"textures": {
+		"particle": "ic2:blocks/machine/uu/matter_generator_leftrightback",
+		"down": "ic2:blocks/machine/uu/matter_generator_bottom",
+		"up": "ic2:blocks/machine/uu/matter_generator_top",
+		"north": "ic2:blocks/machine/uu/matter_generator_front",
+		"east": "ic2:blocks/machine/uu/matter_generator_leftrightback",
+		"south": "ic2:blocks/machine/uu/matter_generator_leftrightback",
+		"west": "ic2:blocks/machine/uu/matter_generator_leftrightback"
+	}
+}

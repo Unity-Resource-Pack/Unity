@@ -1,0 +1,8 @@
+{
+	"parent": "block/cube_bottom_top",
+	"textures": {
+		"side": "ic2:blocks/generator/reactor/nuclear_reactor_sides",
+		"bottom": "ic2:blocks/generator/reactor/nuclear_reactor_bottom",
+		"top": "ic2:blocks/generator/reactor/nuclear_reactor_top"
+	}
+}

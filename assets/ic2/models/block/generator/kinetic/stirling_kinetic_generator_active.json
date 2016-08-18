@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube",
+	"textures": {
+		"particle": "ic2:blocks/generator/kinetic/stirling_kinetic_generator_leftrightback_active",
+		"down": "ic2:blocks/generator/kinetic/stirling_kinetic_generator_bottomtop_active",
+		"up": "ic2:blocks/generator/kinetic/stirling_kinetic_generator_bottomtop_active",
+		"north": "ic2:blocks/generator/kinetic/stirling_kinetic_generator_front",
+		"east": "ic2:blocks/generator/kinetic/stirling_kinetic_generator_leftrightback_active",
+		"south": "ic2:blocks/generator/kinetic/stirling_kinetic_generator_leftrightback_active",
+		"west": "ic2:blocks/generator/kinetic/stirling_kinetic_generator_leftrightback_active"
+	}
+}

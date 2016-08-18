@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube",
+	"textures": {
+		"particle": "ic2:blocks/wiring/storage/mfsu_leftright",
+		"down": "ic2:blocks/wiring/storage/mfsu_bottom",
+		"up": "ic2:blocks/wiring/storage/mfsu_top",
+		"north": "ic2:blocks/wiring/storage/mfsu_front",
+		"east": "ic2:blocks/wiring/storage/mfsu_leftright",
+		"south": "ic2:blocks/wiring/storage/mfsu_back",
+		"west": "ic2:blocks/wiring/storage/mfsu_leftright"
+	}
+}

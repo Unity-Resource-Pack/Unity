@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "ic2:blocks/machine/misc/rci_rsh_sides_active",
+    "down": "ic2:blocks/machine/misc/rci_rsh_sides_active",
+    "up": "ic2:blocks/machine/misc/rci_rsh_sides_active",
+    "north": "ic2:blocks/machine/misc/rci_rsh_sides_active",
+    "east": "ic2:blocks/machine/misc/rci_rsh_sides_active",
+    "south": "ic2:blocks/machine/misc/rci_rsh_back",
+    "west": "ic2:blocks/machine/misc/rci_rsh_sides_active"
+  }
+}

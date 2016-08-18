@@ -1,0 +1,12 @@
+{
+	"parent": "ic2:block/wiring/chargepad/chargepad_base",
+	"textures": {
+		"particle": "ic2:blocks/wiring/chargepad/chargepad_cesu_leftright",
+		"down": "ic2:blocks/wiring/chargepad/chargepad_cesu_bottom",
+		"up": "ic2:blocks/wiring/chargepad/chargepad_cesu_top_active",
+		"north": "ic2:blocks/wiring/chargepad/chargepad_cesu_front",
+		"east": "ic2:blocks/wiring/chargepad/chargepad_cesu_leftright",
+		"south": "ic2:blocks/wiring/chargepad/chargepad_cesu_back",
+		"west": "ic2:blocks/wiring/chargepad/chargepad_cesu_leftright"
+	}
+}

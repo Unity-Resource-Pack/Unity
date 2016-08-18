@@ -1,0 +1,7 @@
+{
+	"parent": "block/door_top",
+	"textures": {
+		"bottom": "ic2:blocks/reinforced_door_bottom",
+		"top": "ic2:blocks/reinforced_door_top"
+	}
+}

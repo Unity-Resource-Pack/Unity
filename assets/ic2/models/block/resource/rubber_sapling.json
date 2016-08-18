@@ -1,0 +1,11 @@
+{
+	"parent": "block/cross",
+	"textures": {
+		"cross": "ic2:blocks/resource/rubber_sapling"
+	},
+	"display": {
+		"gui": {
+			"scale": [1, 1.5, 1]
+		}
+	}
+}

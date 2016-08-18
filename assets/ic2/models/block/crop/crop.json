@@ -1,0 +1,6 @@
+{
+	"parent": "block/crop",
+	"textures": {
+		"all": "ic2:blocks/crop/stick"
+	}
+}

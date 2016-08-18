@@ -1,0 +1,7 @@
+{
+	"parent": "ic2:item/default",
+	"textures": {
+		"layer0": "ic2:items/armor/quantum_boots",
+		"layer1": "ic2:items/armor/quantum_boots_overlay"
+	}
+}

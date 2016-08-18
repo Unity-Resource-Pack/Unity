@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gui width="176" height="166">
+    <text y="6" align="center">%name%</text>
+    <slot name="fluidSlot" x="26" y="16"/>
+    <slot name="output" x="26" y="52"/>
+    <slot name="charge" x="114" y="48"/>
+    <energygauge x="110" y="30" style="bar"/>
+    <fluidtank x="56" y="16" name="fluid"/>
+    <playerInventory x="7" y="83"/>
+    <!-- TODO add static part (empty arrow) -->
+</gui>

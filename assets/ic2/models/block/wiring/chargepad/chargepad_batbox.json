@@ -1,0 +1,12 @@
+{
+	"parent": "ic2:block/wiring/chargepad/chargepad_base",
+	"textures": {
+		"particle": "ic2:blocks/wiring/chargepad/chargepad_batbox_left",
+		"down": "ic2:blocks/wiring/chargepad/chargepad_batbox_bottom",
+		"up": "ic2:blocks/wiring/chargepad/chargepad_batbox_top",
+		"north": "ic2:blocks/wiring/chargepad/chargepad_batbox_front",
+		"east": "ic2:blocks/wiring/chargepad/chargepad_batbox_left",
+		"south": "ic2:blocks/wiring/chargepad/chargepad_batbox_back",
+		"west": "ic2:blocks/wiring/chargepad/chargepad_batbox_right"
+	}
+}

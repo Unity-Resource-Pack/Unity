@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gui width="176" height="166">
+	<!-- image x="25" y="18" src="textures/gui/overlay/blast_furnace"/ -->
+    <text y="6" align="center">%name%</text>
+    <slot name="input" x="55" y="24"/>
+    <slotgrid x="111" y="24" name="output" rows="2" />
+    <slotgrid name="upgrade" x="151" y="7" cols="1"/>
+    <slot name="cellInput" x="7" y="52"/>
+    <slot name="cellOutput" x="25" y="52"/>
+    <fluidslot x="55" y="42" name="fluid"/>
+    <gauge name="progress" x="80" y="35" style="progressarrow"/>
+    <text x="14" y="25" >Heat</text>
+    <gauge name="heat" x="15" y="34" style="heatcentrifuge"/>
+    <playerInventory x="7" y="83"/>
+	<!-- TODO: add arrows -->
+</gui>

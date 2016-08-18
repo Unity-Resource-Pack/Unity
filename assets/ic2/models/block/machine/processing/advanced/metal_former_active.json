@@ -1,0 +1,12 @@
+{
+	"parent": "block/cube",
+	"textures": {
+		"particle": "ic2:blocks/machine/processing/advanced/metal_former_leftrightback",
+		"down": "ic2:blocks/machine/processing/advanced/metal_former_bottom",
+		"up": "ic2:blocks/machine/processing/advanced/metal_former_top_active",
+		"north": "ic2:blocks/machine/processing/advanced/metal_former_front_active",
+		"east": "ic2:blocks/machine/processing/advanced/metal_former_leftrightback",
+		"south": "ic2:blocks/machine/processing/advanced/metal_former_leftrightback",
+		"west": "ic2:blocks/machine/processing/advanced/metal_former_leftrightback"
+	}
+}

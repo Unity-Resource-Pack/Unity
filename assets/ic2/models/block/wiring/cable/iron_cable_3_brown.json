@@ -1,0 +1,6 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+		"all": "ic2:blocks/wiring/cable/iron_cable_3_brown"
+	}
+}

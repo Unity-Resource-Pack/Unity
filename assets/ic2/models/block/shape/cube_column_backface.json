@@ -1,0 +1,11 @@
+{
+	"parent": "ic2:block/shape/cube_backface",
+	"textures": {
+		"down": "#end",
+		"up": "#end",
+		"north": "#side",
+		"east": "#side",
+		"south": "#side",
+		"west": "#side"
+	}
+}

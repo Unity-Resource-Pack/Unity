@@ -1,0 +1,8 @@
+{
+	"parent": "block/cube_bottom_top",
+	"textures": {
+		"side": "ic2:blocks/generator/electric/rt_generator_sides",
+		"bottom": "ic2:blocks/generator/electric/rt_generator_bottom",
+		"top": "ic2:blocks/generator/electric/rt_generator_top"
+	}
+}

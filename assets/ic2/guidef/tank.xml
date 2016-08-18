@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gui width="176" height="166">
+    <text y="6" align="center">%name%</text>
+    <slotgrid name="upgrade" x="151" y="7" cols="1"/>
+    <fluidslot x="79" y="35" name="fluid"/>
+    <playerInventory x="7" y="83"/>
+</gui>

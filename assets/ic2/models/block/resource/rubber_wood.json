@@ -1,0 +1,7 @@
+{
+	"parent": "block/cube_column",
+	"textures": {
+		"side": "ic2:blocks/resource/rubber_wood_sides",
+		"end": "ic2:blocks/resource/rubber_wood_bottomtop"
+	}
+}
