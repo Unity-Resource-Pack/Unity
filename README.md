@@ -42,7 +42,7 @@ Please avoid retexturing these as it will probably be a waste of your time.
 
 Installation
 ------
-Click the green _Close or download_ button on the top right and then click _Download ZIP_. Once you've finished downloading, un-zip the file to your `.minecraft/resourcepacks` folder.
+Click the green _Clone or download_ button on the top right and then click _Download ZIP_. Once you've finished downloading, un-zip the file to your `.minecraft/resourcepacks` folder.
 
 Contact
 ------
