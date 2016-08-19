@@ -2,11 +2,11 @@
 
 Updates
 ------
-Life has been keeping me quite busy these days and I have found myself with less and less free time to work on the Unity pack with each passing day. To solve that problem, I have opened a repo for anyone to contribute to (thanks to VapourDrive for the idea).
+Life has been keeping me quite busy these days and I have found myself with less and less free time to work on the Unity pack with each passing day. To solve that problem, I have opened a repo for anyone to contribute to.
 
 Not all submitted textures will be merged. If I feel your textures do not fit with my current design aesthetic, I simply can't include them. The entire point of Unity is to maintain a unified look. Please do not feel discouraged if your textures aren't used; it doesn't mean they're bad, they just don't match my style.
 
-Please note that not all textures have been updated for 1.7.10 nor have they been updated for their latest mod versions. I will be adding version notes shortly to hopefully keep things organized.
+Please note that not all textures have been updated for 1.10.2 nor have they been updated for their latest mod versions. I will be adding version notes shortly to hopefully keep things organized.
 
 Tutorials
 ------
@@ -24,22 +24,21 @@ The following chart displays current mod retexture progress.
 Please avoid retexturing these as it will probably be a waste of your time.
 
 
-| Mod Name            | Status          | Artist          |
-| ------------------  |:-------------:  | :-------------: |
-| Mekanism            | Active          | CyanideX        |
-| EnderIO             | Active          | CyanideX        |
-| GregTech            | On Hold         | CyanideX        |
-| IC2                 | On Hold         | CyanideX        |
-| Gendustry           | On Hold         | CyanideX        |
-| Tinkers' Construct  | Active          | MechWarrior99   |
-| Storage Drawers     | Active          | MechWarrior99   |
-| Biomes o'Plenty     | Active          | MechWarrior99 & Yulife |
-| NuclearCraft        | Active          | MechWarrior99   |      
-| EZ Storage          | Planned         | BBoldt          |
-| Hydraulicraft       | Planned         | BBoldt          |
-| Actually Additions  | Planned         | BBoldt          |
-| Avaritia            | On Hold         | ZiaAvenicia     |
-| everything else     | Active          | Yulife          |
+| Mod Name            | Status              | Artist                  |
+| ------------------  |:-------------:      | :-------------:         |
+| Mekanism            | Completed: OFFICIAL | CyanideX                |
+| EnderIO             | Active              | CyanideX                |
+| GregTech            | On Hold             | CyanideX                |
+| IC2                 | Completed           | CyanideX                |
+| Gendustry           | On Hold             | CyanideX                |
+| Tinkers' Construct  | Active              | CyanideX                |
+| Storage Drawers     | Active              | MechWarrior99           |
+| Biomes o'Plenty     | Active              | MechWarrior99 & Yulife  |
+| NuclearCraft        | Active              | MechWarrior99           |      
+| EZ Storage          | Planned             | BBoldt                  |
+| Hydraulicraft       | Planned             | BBoldt                  |
+| Actually Additions  | Planned             | BBoldt                  |
+| Avaritia            | On Hold             | ZiaAvenicia             |
 
 Installation
 ------
