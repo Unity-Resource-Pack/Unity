@@ -11,7 +11,7 @@ Please note that not all textures have been updated for 1.10.2 nor have they bee
 Tutorials
 ------
 ![alt tag](http://i.imgur.com/9NJg2D3.png)
-![alt tag](http://i.imgur.com/sCQTtxS.png)
+![alt tag](http://i.imgur.com/EdA2hQm.png)
 
 
 Photoshop Template
