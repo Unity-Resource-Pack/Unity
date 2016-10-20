@@ -8,6 +8,8 @@ Not all submitted textures will be merged. If I feel your textures do not fit wi
 
 Please note that not all textures have been updated for 1.10.2 nor have they been updated for their latest mod versions. I will be adding version notes shortly to hopefully keep things organized.
 
+Master is for the latest official version of Minecraft. For older, deprecated versions look in the branch section.
+
 Tutorials
 ------
 ![alt tag](http://i.imgur.com/9NJg2D3.png)
