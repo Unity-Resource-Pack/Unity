@@ -18,7 +18,7 @@ Tutorials
 
 Photoshop Template
 ------
-I hope this may be of use to those of you interested in texturing for Unity; I've tried to include as many samples and details as possible to start you off in the right direction. You can download the PSD [here](https://dl.dropboxusercontent.com/u/2609913/Minecraft/Unity/unityTemplate.psd?dl=1 "Unity - PSD").
+I hope this may be of use to those of you interested in texturing for Unity; I've tried to include as many samples and details as possible to start you off in the right direction. You can download the PSD [here](https://www.dropbox.com/s/d3tzqpg0ul8f9q6/unityTemplate.psd?dl=1 "Unity - PSD").
 
 Mods In Progress
 ------
