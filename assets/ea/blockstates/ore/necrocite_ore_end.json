@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "ea:ore/necrocite_ore_end" }
+    }
+}
