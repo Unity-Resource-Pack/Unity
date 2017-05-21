@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "ea:ore/ebon_ore_end" }
+    }
+}
