@@ -1,0 +1,53 @@
+{
+	"credit": "Made with Blockbench, a free, modern block model editor by JannisX11 - Model Made By TheMattaBase",
+	"textures": {
+		"dot": "blocks/redstone_dust_dot",
+		"particle": "blocks/redstone_dust_dot"
+	},
+	"elements": [
+		{
+			"name": "Element",
+			"from": [5, 0, 5],
+			"to": [11, 1, 11],
+			"shade": false,
+			"faces": {
+				"north": {
+					"uv": [5, 5, 11, 6],
+					"texture": "#dot",
+					"tintindex": 0,
+					"rotation": 90
+				},
+				"east": {
+					"uv": [5, 5, 11, 6],
+					"texture": "#dot",
+					"rotation": 180,
+					"tintindex": 0,
+					"cullface": "off"
+				},
+				"south": {
+					"uv": [5, 5, 11, 6],
+					"texture": "#dot",
+					"tintindex": 0,
+					"rotation": 270
+				},
+				"west": {
+					"uv": [5, 5, 11, 6],
+					"texture": "#dot",
+					"tintindex": 0
+				},
+				"up": {
+					"uv": [5, 5, 11, 11],
+					"texture": "#dot",
+					"tintindex": 0
+				},
+				"down": {
+					"uv": [5, 5, 11, 11],
+					"texture": "#dot",
+					"tintindex": 0,
+					"rotation": 270
+				}
+			}
+		}
+	],
+	"ambientocclusion": false
+}
