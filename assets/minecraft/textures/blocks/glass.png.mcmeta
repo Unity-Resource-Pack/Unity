@@ -1,5 +1,6 @@
 {
-    "ctm": {
+      "animation": {},
+	  "ctm": {
         "ctm_version": 1,
         "type": "CTM",
         "layer": "CUTOUT",
