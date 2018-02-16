@@ -1,0 +1,74 @@
+{
+  "language.name": "English",
+  "language.region": "United States",
+  "language.code": "en_us",
+
+  "gui.toTitle": "Back to Title Screen",
+  "gui.toMenu": "Back to Server List",
+
+  "menu.generatingLevel": "Generating World",
+  "menu.loadingLevel": "Loading World",
+  "menu.generatingTerrain": "Building Terrain",
+  "menu.convertingLevel": "Converting World",
+
+  "multiplayer.downloadingStats": "Downloading statistics & advancements...",
+
+  "soundCategory.hostile": "Hostile Mobs",
+  "soundCategory.neutral": "Friendly Mobs",
+
+  "block.minecraft.purpur_block": "Purple Shale Block",
+  "block.minecraft.purpur_pillar": "Purple Shale Pillar",
+  "block.minecraft.purpur_stairs": "Purple Shale Stairs",
+  "block.minecraft.purpur_slab": "Purple Shale Slab",
+
+  "structure_block.mode.save": "[S]",
+  "structure_block.mode.load": "[L]",
+  "structure_block.mode.data": "[D]",
+  "structure_block.mode.corner": "[C]",
+
+  "death.attack.outOfWorld": "%1$s was consumed by the void",
+
+  "deathScreen.spectate": "Spectate World",
+  "deathScreen.deleteWorld": "Delete World",
+  "deathScreen.titleScreen": "Title Screen",
+
+  "deathScreen.title.hardcore": "Game Over!",
+  "deathScreen.title": "You Died!",
+  "deathScreen.leaveServer": "Leave Server",
+
+  "stat.minecraft.play_one_minute": "Minutes Played",
+
+  "block.minecraft.banner.stripe_bottom.black": "Black Base Fess",
+  "block.minecraft.banner.stripe_bottom.red": "Red Base Fess",
+  "block.minecraft.banner.stripe_bottom.green": "Green Base Fess",
+  "block.minecraft.banner.stripe_bottom.brown": "Brown Base Fess",
+  "block.minecraft.banner.stripe_bottom.blue": "Blue Base Fess",
+  "block.minecraft.banner.stripe_bottom.purple": "Purple Base Fess",
+  "block.minecraft.banner.stripe_bottom.cyan": "Cyan Base Fess",
+  "block.minecraft.banner.stripe_bottom.light_gray": "Light Gray Base Fess",
+  "block.minecraft.banner.stripe_bottom.gray": "Gray Base Fess",
+  "block.minecraft.banner.stripe_bottom.pink": "Pink Base Fess",
+  "block.minecraft.banner.stripe_bottom.lime": "Lime Base Fess",
+  "block.minecraft.banner.stripe_bottom.yellow": "Yellow Base Fess",
+  "block.minecraft.banner.stripe_bottom.light_blue": "Light Blue Base Fess",
+  "block.minecraft.banner.stripe_bottom.magenta": "Magenta Base Fess",
+  "block.minecraft.banner.stripe_bottom.orange": "Orange Base Fess",
+  "block.minecraft.banner.stripe_bottom.white": "White Base Fess",
+
+  "block.minecraft.banner.stripe_top.black": "Black Chief Fess",
+  "block.minecraft.banner.stripe_top.red": "Red Chief Fess",
+  "block.minecraft.banner.stripe_top.green": "Green Chief Fess",
+  "block.minecraft.banner.stripe_top.brown": "Brown Chief Fess",
+  "block.minecraft.banner.stripe_top.blue": "Blue Chief Fess",
+  "block.minecraft.banner.stripe_top.purple": "Purple Chief Fess",
+  "block.minecraft.banner.stripe_top.cyan": "Cyan Chief Fess",
+  "block.minecraft.banner.stripe_top.light_gray": "Light Gray Chief Fess",
+  "block.minecraft.banner.stripe_top.gray": "Gray Chief Fess",
+  "block.minecraft.banner.stripe_top.pink": "Pink Chief Fess",
+  "block.minecraft.banner.stripe_top.lime": "Lime Chief Fess",
+  "block.minecraft.banner.stripe_top.yellow": "Yellow Chief Fess",
+  "block.minecraft.banner.stripe_top.light_blue": "Light Blue Chief Fess",
+  "block.minecraft.banner.stripe_top.magenta": "Magenta Chief Fess",
+  "block.minecraft.banner.stripe_top.orange": "Orange Chief Fess",
+  "block.minecraft.banner.stripe_top.white": "White Chie Fessf"
+}
