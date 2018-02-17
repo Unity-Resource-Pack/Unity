@@ -1,0 +1,10 @@
+{
+    "parent": "block/grass_block",
+    "textures": {
+        "particle": "blocks/dirt",
+        "bottom": "blocks/dirt",
+        "top": "unity:blocks/grass_block_alt",
+        "side": "blocks/grass_block_side",
+        "overlay": "unity:blocks/grass_block_side_overlay_alt1"
+    }
+}
