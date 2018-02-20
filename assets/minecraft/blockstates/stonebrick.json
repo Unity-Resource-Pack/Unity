@@ -1,9 +1,0 @@
-{
-    "variants": {
-        "normal": [
-            { "model": "stonebrick_normal", "weight": 15 },
-            { "model": "unity:stonebrick_alt", "weight": 5 },
-            { "model": "unity:stonebrick_alt2", "weight": 5 }
-        ]
-    }
-}
