@@ -18,6 +18,6 @@
       { "model": "unity:grass_block_alt", "weight": 1, "y": 180 },
       { "model": "unity:grass_block_alt", "weight": 1, "y": 270 }
     ],
-    "snowy=true":  { "model": "grass_block_snowed" }
+    "snowy=true":  { "model": "grass_block_snow" }
   }
 }
