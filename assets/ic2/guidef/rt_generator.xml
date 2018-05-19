@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<gui width="176" height="166">
-    <text y="6" align="center">%name%</text>
-    <slotgrid x="30" y="25" name="fuel" rows="2" />
-    <energygauge x="115" y="39" style="bar"/>
-    <playerInventory x="7" y="83"/>
-</gui>

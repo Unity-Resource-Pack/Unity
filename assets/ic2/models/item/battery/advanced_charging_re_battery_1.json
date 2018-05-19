@@ -1,6 +1,0 @@
-{
-	"parent": "ic2:item/default",
-	"textures": {
-		"layer0": "ic2:items/battery/advanced_charging_re_battery_1"
-	}
-}

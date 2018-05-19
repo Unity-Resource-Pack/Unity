@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<gui width="176" height="166">
-    <text y="6" align="center">%name%</text>
-    <slotgrid name="upgrade" x="151" y="7" cols="1"/>
-    <slotgrid name="input" x="61" y="16" cols="3" rows="3"/>
-    <energygauge x="7" y="55"/>
-    <playerInventory x="7" y="83"/>
-</gui>

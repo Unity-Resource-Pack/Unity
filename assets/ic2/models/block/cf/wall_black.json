@@ -1,6 +1,0 @@
-{
-	"parent": "block/cube_all",
-	"textures": {
-		"all": "ic2:blocks/cf/wall_black"
-	}
-}
