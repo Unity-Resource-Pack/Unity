@@ -1,8 +1,0 @@
-{
-	"parent": "block/cube",
-	"textures": {
-		"side": "ic2:blocks/machine/resource/cropmatron_sides",
-		"bottom": "ic2:blocks/machine/resource/cropmatron_bottom",
-		"top": "ic2:blocks/machine/resource/cropmatron_top"
-	}
-}

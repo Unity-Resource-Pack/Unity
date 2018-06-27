@@ -1,6 +1,0 @@
-{
-	"parent": "block/cube_all",
-	"textures": {
-		"all": "ic2:blocks/wiring/cable/tin_cable_1_blue"
-	}
-}

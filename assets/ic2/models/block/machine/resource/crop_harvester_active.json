@@ -1,8 +1,0 @@
-{
-	"parent": "block/cube_bottom_top",
-	"textures": {
-		"side": "ic2:blocks/machine/resource/crop_harvester_sides_active",
-		"bottom": "ic2:blocks/machine/resource/crop_harvester_bottom",
-		"top": "ic2:blocks/machine/resource/crop_harvester_top_active"
-	}
-}

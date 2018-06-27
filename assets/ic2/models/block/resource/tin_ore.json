@@ -1,6 +1,0 @@
-{
-	"parent": "block/cube_all",
-	"textures": {
-		"all": "ic2:blocks/resource/tin_ore"
-	}
-}
