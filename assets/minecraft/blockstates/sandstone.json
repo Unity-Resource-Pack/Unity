@@ -1,0 +1,14 @@
+{
+    "variants": {
+			"": [
+					{ "model": "block/sandstone", "weight": 20 },
+					{ "model": "block/sandstone", "weight": 10, "y": 180 },
+					{ "model": "unity:block/sandstone_alt1", "weight": 2 },
+					{ "model": "unity:block/sandstone_alt1", "weight": 7,  "y": 180 },
+					{ "model": "unity:block/sandstone_alt2", "weight": 2 },
+					{ "model": "unity:block/sandstone_alt1", "weight": 3,  "y": 180 },
+					{ "model": "unity:block/sandstone_alt3", "weight": 2 },
+					{ "model": "unity:block/sandstone_alt3", "weight": 1,  "y": 180 }
+			]
+    }
+}

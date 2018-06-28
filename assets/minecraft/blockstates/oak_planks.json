@@ -3,7 +3,9 @@
         "": [
             { "model": "block/oak_planks", "weight": 20 },
             { "model": "unity:block/oak_planks_long", "weight": 6 },
-            { "model": "unity:block/oak_planks_short", "weight": 6 }
+            { "model": "unity:block/oak_planks_long_alt1", "weight": 2 },
+            { "model": "unity:block/oak_planks_short", "weight": 6 },
+            { "model": "unity:block/oak_planks_short_alt1", "weight": 3 }
         ]
     }
 }
