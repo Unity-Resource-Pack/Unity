@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/grass", "weight": 5 },
+            { "model": "unity:block/grass_alt", "weight": 7 },
+            { "model": "unity:block/grass_alt2", "weight": 5 }
+        ]
+    }
+}

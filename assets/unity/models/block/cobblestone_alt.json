@@ -1,6 +1,6 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "all": "unity:blocks/cobblestone_alt"
+        "all": "unity:block/cobblestone_alt"
     }
 }

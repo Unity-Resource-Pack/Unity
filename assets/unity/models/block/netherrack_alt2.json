@@ -1,6 +1,6 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "all": "unity:blocks/netherrack_alt2"
+        "all": "unity:block/netherrack_alt2"
     }
 }

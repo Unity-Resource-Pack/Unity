@@ -1,8 +1,8 @@
 {
     "textures": {
-        "particle": "blocks/iron_bars",
-        "cap": "blocks/iron_bars_cap",
-        "side": "blocks/iron_bars"
+        "particle": "block/iron_bars",
+        "cap": "block/iron_bars_cap",
+        "side": "block/iron_bars"
     },
     "elements": [
         {

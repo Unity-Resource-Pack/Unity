@@ -1,6 +1,6 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "all": "unity:blocks/sand_rocks"
+        "all": "unity:block/sand_rocks"
     }
 }

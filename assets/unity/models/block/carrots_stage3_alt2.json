@@ -1,6 +1,6 @@
 {
     "parent": "block/crop",
     "textures": {
-        "crop": "unity:blocks/carrots_stage_3_alt2"
+        "crop": "unity:block/carrots_stage_3_alt2"
     }
 }
