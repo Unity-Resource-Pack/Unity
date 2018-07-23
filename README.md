@@ -1,4 +1,4 @@
-![alt tag](https://i.imgur.com/T4i4Rci.png)
+![alt tag](https://i.imgur.com/Xo6CNqP.png)
 
 Updates
 ------
@@ -7,6 +7,8 @@ Life has been keeping me quite busy these days and I have found myself with less
 Not all submitted textures will be merged. If I feel your textures do not fit with my current design aesthetic, I simply can't include them. The entire point of Unity is to maintain a unified look. Please do not feel discouraged if your textures aren't used; it doesn't mean they're bad, they just don't match my style.
 
 For older, deprecated versions look in the branch section.
+
+![img](https://i.imgur.com/sxCLSxx.png)
 
 Tutorials
 ------
