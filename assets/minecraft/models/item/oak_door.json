@@ -101,8 +101,8 @@
 		},
 		"gui": {
 			"scale": [0.44, 0.44, 0.44],
-			"rotation": [30, 135, 0],
-			"translation": [-2, -2, 0]
+			"rotation": [30, 45, 0],
+			"translation": [2, -2, 0]
 		},
 		"thirdperson_lefthand": {
 			"scale": [0.55, 0.55, 0.55],
