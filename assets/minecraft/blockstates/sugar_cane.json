@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "": [
+      { "model": "block/sugar_cane", "weight": 1 },
+      { "model": "block/sugar_cane_alt0", "weight": 2 },
+      { "model": "block/sugar_cane_alt1", "weight": 2 },
+      { "model": "block/sugar_cane_alt2", "weight": 2 }
+    ]
+  }
+}
