@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/smooth_stone", "weight": 45 },
+            { "model": "unity:block/smooth_stone_alt", "weight": 20 },
+            { "model": "unity:block/smooth_stone_alt2", "weight": 20 }
+        ]
+    }
+}
