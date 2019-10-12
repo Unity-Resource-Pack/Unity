@@ -1,0 +1,7 @@
+{
+  "variants": {
+	"": [
+            { "model": "block/infested_cobblestone"}
+        ]
+    }
+}

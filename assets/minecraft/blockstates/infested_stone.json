@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/infested_stone" },
+            { "model": "block/infested_stone_mirrored" },
+            { "model": "block/infested_stone", "y": 180 },
+            { "model": "block/infested_stone_mirrored", "y": 180 }
+        ]
+    }
+}
