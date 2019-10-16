@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/coarse_dirt", "weight": 25 },
+            { "model": "block/coarse_dirt", "weight": 8, "y": 180 },
+            { "model": "unity:block/coarse_dirt_alt", "weight": 12 },
+            { "model": "unity:block/coarse_dirt_alt", "weight": 21, "y": 180 },
+            { "model": "unity:block/coarse_dirt_alt2", "weight": 18 },
+            { "model": "unity:block/coarse_dirt_alt2", "weight": 13, "y": 180 },
+            { "model": "unity:block/coarse_dirt_alt3", "weight": 8 },
+            { "model": "unity:block/coarse_dirt_alt3", "weight": 9, "y": 180 }
+        ]
+    }
+}
