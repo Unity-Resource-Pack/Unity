@@ -1,0 +1,164 @@
+{
+    "variants": {
+        "east=false,north=false,south=false,up=false,west=false": [
+			{ "model": "block/vine_1", "weight": 4 },
+			{ "model": "unity:block/vine_1_alt", "weight": 4 },
+			{ "model": "unity:block/vine_1_alt2", "weight": 4 }
+		],
+        "east=false,north=false,south=true,up=false,west=false": [
+			{ "model": "block/vine_1", "weight": 4 },
+			{ "model": "unity:block/vine_1_alt", "weight": 4 },
+			{ "model": "unity:block/vine_1_alt2", "weight": 4 }
+		],
+        "east=false,north=false,south=false,up=false,west=true": [
+			{ "model": "block/vine_1", "y": 90, "weight": 4 },
+			{ "model": "unity:block/vine_1_alt", "y": 90, "weight": 4 },
+			{ "model": "unity:block/vine_1_alt2", "y": 90, "weight": 4 }
+		],
+        "east=false,north=true,south=false,up=false,west=false": [
+			{ "model": "block/vine_1", "y": 180, "weight": 4 },
+			{ "model": "unity:block/vine_1_alt", "y": 180, "weight": 4 },
+			{ "model": "unity:block/vine_1_alt2", "y": 180, "weight": 4 }
+		],
+        "east=true,north=false,south=false,up=false,west=false": [
+			{ "model": "block/vine_1", "y": 270, "weight": 4 },
+			{ "model": "unity:block/vine_1_alt", "y": 270, "weight": 4 },
+			{ "model": "unity:block/vine_1_alt2", "y": 270, "weight": 4 }
+		],
+        "east=true,north=true,south=false,up=false,west=false": [
+			{ "model": "block/vine_2", "weight": 4 },
+			{ "model": "unity:block/vine_2_alt", "weight": 4 },
+			{ "model": "unity:block/vine_2_alt2", "weight": 4 }
+		],
+        "east=true,north=false,south=true,up=false,west=false": [
+			{ "model": "block/vine_2", "y": 90, "weight": 4 },
+			{ "model": "unity:block/vine_2_alt", "y": 90, "weight": 4 },
+			{ "model": "unity:block/vine_2_alt2", "y": 90, "weight": 4 }
+		],
+        "east=false,north=false,south=true,up=false,west=true": [
+			{ "model": "block/vine_2", "y": 180, "weight": 4 },
+			{ "model": "unity:block/vine_2_alt", "y": 180, "weight": 4 },
+			{ "model": "unity:block/vine_2_alt2", "y": 180, "weight": 4 }
+		],
+        "east=false,north=true,south=false,up=false,west=true": [
+			{ "model": "block/vine_2", "y": 270, "weight": 4 },
+			{ "model": "unity:block/vine_2_alt", "y": 270, "weight": 4 },
+			{ "model": "unity:block/vine_2_alt2", "y": 270, "weight": 4 }
+		],
+        "east=true,north=false,south=false,up=false,west=true": [
+			{ "model": "block/vine_2_opposite", "weight": 4 },
+			{ "model": "unity:block/vine_2_opposite_alt", "weight": 4 },
+			{ "model": "unity:block/vine_2_opposite_alt2", "weight": 4 }
+		],
+        "east=false,north=true,south=true,up=false,west=false": [
+			{ "model": "block/vine_2_opposite", "y": 90, "weight": 4 },
+			{ "model": "unity:block/vine_2_opposite_alt", "y": 90, "weight": 4 },
+			{ "model": "unity:block/vine_2_opposite_alt2", "y": 90, "weight": 4 }
+		],
+        "east=true,north=true,south=true,up=false,west=false": [
+			{ "model": "block/vine_3", "weight": 4 },
+			{ "model": "unity:block/vine_3_alt", "weight": 4 },
+			{ "model": "unity:block/vine_3_alt2", "weight": 4 }
+		],
+        "east=true,north=false,south=true,up=false,west=true": [
+			{ "model": "block/vine_3", "y": 90, "weight": 4 },
+			{ "model": "unity:block/vine_3_alt", "y": 90, "weight": 4 },
+			{ "model": "unity:block/vine_3_alt2", "y": 90, "weight": 4 }
+		],
+        "east=false,north=true,south=true,up=false,west=true": [
+			{ "model": "block/vine_3", "y": 180, "weight": 4 },
+			{ "model": "unity:block/vine_3_alt", "y": 180, "weight": 4 },
+			{ "model": "unity:block/vine_3_alt2", "y": 180, "weight": 4 }
+		],
+        "east=true,north=true,south=false,up=false,west=true": [
+			{ "model": "block/vine_3", "y": 270, "weight": 4 },
+			{ "model": "unity:block/vine_3_alt", "y": 270, "weight": 4 },
+			{ "model": "unity:block/vine_3_alt2", "y": 270, "weight": 4 }
+		],
+        "east=true,north=true,south=true,up=false,west=true": [
+			{ "model": "block/vine_4", "weight": 4 },
+			{ "model": "unity:block/vine_4_alt", "weight": 4 },
+			{ "model": "unity:block/vine_4_alt2", "weight": 4 }
+		],
+        "east=false,north=false,south=false,up=true,west=false": [
+			{ "model": "block/vine_u", "weight": 4 },
+			{ "model": "unity:block/vine_u_alt", "weight": 4 },
+			{ "model": "unity:block/vine_u_alt2", "weight": 4 }
+		],
+        "east=false,north=false,south=true,up=true,west=false": [
+			{ "model": "block/vine_1u", "weight": 4 },
+			{ "model": "unity:block/vine_1u_alt", "weight": 4 },
+			{ "model": "unity:block/vine_1u_alt2", "weight": 4 }
+		],
+        "east=false,north=false,south=false,up=true,west=true": [
+			{ "model": "block/vine_1u", "y": 90, "weight": 4 },
+			{ "model": "unity:block/vine_1u_alt", "y": 90, "weight": 4 },
+			{ "model": "unity:block/vine_1u_alt2", "y": 90, "weight": 4 }
+		],
+        "east=false,north=true,south=false,up=true,west=false": [
+			{ "model": "block/vine_1u", "y": 180, "weight": 4 },
+			{ "model": "unity:block/vine_1u_alt", "y": 180, "weight": 4 },
+			{ "model": "unity:block/vine_1u_alt2", "y": 180, "weight": 4 }
+		],
+        "east=true,north=false,south=false,up=true,west=false": [
+			{ "model": "block/vine_1u", "y": 270, "weight": 4 },
+			{ "model": "unity:block/vine_1u_alt", "y": 270, "weight": 4 },
+			{ "model": "unity:block/vine_1u_alt2", "y": 270, "weight": 4 }
+		],
+        "east=true,north=true,south=false,up=true,west=false": [
+			{ "model": "block/vine_2u", "weight": 4 },
+			{ "model": "unity:block/vine_2u_alt", "weight": 4 },
+			{ "model": "unity:block/vine_2u_alt2", "weight": 4 }
+		],
+        "east=true,north=false,south=true,up=true,west=false": [
+			{ "model": "block/vine_2u", "y": 90, "weight": 4 },
+			{ "model": "unity:block/vine_2u_alt", "y": 90, "weight": 4 },
+			{ "model": "unity:block/vine_2u_alt2", "y": 90, "weight": 4 }
+		],
+        "east=false,north=false,south=true,up=true,west=true": [
+			{ "model": "block/vine_2u", "y": 180, "weight": 4 },
+			{ "model": "unity:block/vine_2u_alt", "y": 180, "weight": 4 },
+			{ "model": "unity:block/vine_2u_alt2", "y": 180, "weight": 4 }
+		],
+        "east=false,north=true,south=false,up=true,west=true": [
+			{ "model": "block/vine_2u", "y": 270, "weight": 4 },
+			{ "model": "unity:block/vine_2u_alt", "y": 270, "weight": 4 },
+			{ "model": "unity:block/vine_2u_alt2", "y": 270, "weight": 4 }
+		],
+        "east=true,north=false,south=false,up=true,west=true": [
+			{ "model": "block/vine_2u_opposite", "weight": 4 },
+			{ "model": "unity:block/vine_2u_opposite_alt", "weight": 4 },
+			{ "model": "unity:block/vine_2u_opposite_alt2", "weight": 4 }
+		],
+        "east=false,north=true,south=true,up=true,west=false": [
+			{ "model": "block/vine_2u_opposite", "y": 90, "weight": 4 },
+			{ "model": "unity:block/vine_2u_opposite_alt", "y": 90, "weight": 4 },
+			{ "model": "unity:block/vine_2u_opposite_alt2", "y": 90, "weight": 4 }
+		],
+        "east=true,north=true,south=true,up=true,west=false": [
+			{ "model": "block/vine_3u", "weight": 4 },
+			{ "model": "unity:block/vine_3u_alt", "weight": 4 },
+			{ "model": "unity:block/vine_3u_alt2", "weight": 4 }
+		],
+        "east=true,north=false,south=true,up=true,west=true": [
+			{ "model": "block/vine_3u", "y": 90, "weight": 4 },
+			{ "model": "unity:block/vine_3u_alt", "y": 90, "weight": 4 },
+			{ "model": "unity:block/vine_3u_alt2", "y": 90, "weight": 4 }
+		],
+        "east=false,north=true,south=true,up=true,west=true": [
+			{ "model": "block/vine_3u", "y": 180, "weight": 4 },
+			{ "model": "unity:block/vine_3u_alt", "y": 180, "weight": 4 },
+			{ "model": "unity:block/vine_3u_alt2", "y": 180, "weight": 4 }
+		],
+        "east=true,north=true,south=false,up=true,west=true": [
+			{ "model": "block/vine_3u", "y": 270, "weight": 4 },
+			{ "model": "unity:block/vine_3u_alt", "y": 270, "weight": 4 },
+			{ "model": "unity:block/vine_3u_alt2", "y": 270, "weight": 4 }
+		],
+        "east=true,north=true,south=true,up=true,west=true": [
+			{ "model": "block/vine_4u", "weight": 4 },
+			{ "model": "unity:block/vine_4u_alt", "weight": 4 },
+			{ "model": "unity:block/vine_4u_alt2", "weight": 4 }
+		]
+    }
+}

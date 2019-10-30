@@ -1,0 +1,6 @@
+{
+    "parent": "block/tinted_cross",
+    "textures": {
+        "cross": "unity:block/kelp_plant_alt"
+    }
+}

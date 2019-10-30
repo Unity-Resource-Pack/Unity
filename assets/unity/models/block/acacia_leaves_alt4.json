@@ -1,0 +1,6 @@
+	{
+    "parent": "block/leaves",
+    "textures": {
+        "all": "unity:block/acacia_leaves_alt4"
+    }
+}
