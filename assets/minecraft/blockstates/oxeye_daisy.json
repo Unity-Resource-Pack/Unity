@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/oxeye_daisy", "weight": 4 },
+            { "model": "unity:block/oxeye_daisy_alt", "weight": 3 },
+            { "model": "unity:block/oxeye_daisy_alt2", "weight": 2 },
+            { "model": "unity:block/oxeye_daisy_alt3", "weight": 4 },
+            { "model": "unity:block/oxeye_daisy_alt4", "weight": 3 }
+        ]
+    }
+}
