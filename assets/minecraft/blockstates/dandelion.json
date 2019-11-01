@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "": [
+          { "model": "block/dandelion", "weight": 35 },
+          { "model": "unity:block/dandelion_alt", "weight": 25 },
+          { "model": "unity:block/dandelion_alt2", "weight": 40 },
+          { "model": "unity:block/dandelion_alt3", "weight": 30 },
+          { "model": "unity:block/dandelion_alt4", "weight": 35 },
+          { "model": "unity:block/dandelion_alt5", "weight": 1 }
+        ]
+    }
+}

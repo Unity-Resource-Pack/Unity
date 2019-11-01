@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "": [
+          { "model": "block/poppy" },
+          { "model": "unity:block/poppy_alt" },
+          { "model": "unity:block/poppy_alt2" },
+          { "model": "unity:block/poppy_alt3" },
+          { "model": "unity:block/poppy_alt4" }
+        ]
+    }
+}

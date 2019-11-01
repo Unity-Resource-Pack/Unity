@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "unity:block/dandelion_alt5"
+    }
+}
