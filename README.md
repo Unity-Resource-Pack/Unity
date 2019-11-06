@@ -19,16 +19,6 @@ Photoshop Template
 ------
 I hope this may be of use to those of you interested in texturing for Unity; I've tried to include as many samples and details as possible to start you off in the right direction. You can download the PSD [here](https://www.dropbox.com/s/d3tzqpg0ul8f9q6/unityTemplate.psd?dl=1 "Unity - PSD").
 
-Mods In Progress
-------
-The following chart displays current mod retexture progress.
-
-Please avoid retexturing these as it will probably be a waste of your time.
-
-
-| Mod Name            | Status              | Artist                  |
-| ------------------  |:-------------:      | :-------------:         |
-| Tinkers' Construct  | Active              | CyanideX                |
 
 Installation
 ------
@@ -36,4 +26,4 @@ Click the green _Clone or download_ button on the top right and then click _Down
 
 Contact
 ------
-If you have any questions, please message me on Twitter @theCyanideX. Thanks!
+If you have any questions, please message me on Twitter [@theCyanideX.](https://twitter.com/theCyanideX/) Thanks!
