@@ -1,0 +1,8 @@
+{
+	"parent": "item/template_boat",
+	"textures": {
+		"oar": "block/dark_oak_boat_oar",
+		"wood": "block/dark_oak_planks",
+		"particle": "block/dark_oak_boat_oar"
+	}
+}
