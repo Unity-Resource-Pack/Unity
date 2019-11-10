@@ -1,0 +1,11 @@
+{
+    "animation": { "frametime": 8},
+    "ctm": {
+        "ctm_version": 1,
+        "type": "normal",
+        "layer": "CUTOUT",
+        "extra": {
+          "light": 13
+        }
+      }
+}

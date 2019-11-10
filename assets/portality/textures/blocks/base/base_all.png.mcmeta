@@ -1,0 +1,22 @@
+{
+   "ctm": {
+     "ctm_version": 1,
+     "type": "ctm",
+     "layer": "SOLID",
+     "textures": [
+         "portality:blocks/base/base_all_ctm"
+     ],
+     "extra": {
+       "light": 0,
+       "connect_inside": true,
+       "connect_to": [
+         { "block": "portality:controller" },
+         { "block": "portality:frame" },
+         { "block": "portality:module_energy" },
+         { "block": "portality:module_interdimensional" },
+         { "block": "portality:module_items" },
+         { "block": "portality:module_fluids" }
+       ]
+     }
+   }
+ }

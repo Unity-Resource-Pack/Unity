@@ -1,0 +1,22 @@
+{
+  "ctm": {
+    "ctm_version": 1,
+    "type": "ctm",
+    "layer": "CUTOUT",
+    "textures": [
+        "portality:blocks/frame/frame_overlay_ctm"
+    ],
+    "extra": {
+      "light": 13,
+      "connect_inside": true,
+      "connect_to": [
+         { "block": "portality:controller" },
+         { "block": "portality:frame" },
+         { "block": "portality:module_energy" },
+         { "block": "portality:module_interdimensional" },
+         { "block": "portality:module_items" },
+         { "block": "portality:module_fluids" }
+      ]
+    }
+  }
+}
