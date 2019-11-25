@@ -1,0 +1,53 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"texture": "block/oak_planks",
+		"particle": "block/oak_planks"
+	},
+	"elements": [
+		{
+			"name": "Center post",
+			"from": [6, 0, 8],
+			"to": [8, 16, 10],
+			"faces": {
+				"south": {"uv": [10, 0, 12, 16], "texture": "#texture"},
+				"west": {"uv": [13, 0, 15, 16], "texture": "#texture"},
+				"up": {"uv": [3, 13, 5, 15], "texture": "#texture", "cullface": "up"},
+				"down": {"uv": [7, 11, 9, 13], "texture": "#texture", "cullface": "down"}
+			}
+		},
+		{
+			"name": "Center post",
+			"from": [8, 0, 8],
+			"to": [10, 16, 10],
+			"faces": {
+				"east": {"uv": [6, 0, 8, 16], "texture": "#texture"},
+				"south": {"uv": [13, 0, 15, 16], "texture": "#texture"},
+				"up": {"uv": [9, 0, 11, 2], "texture": "#texture", "cullface": "up"},
+				"down": {"uv": [6, 3, 8, 5], "texture": "#texture", "cullface": "down"}
+			}
+		},
+		{
+			"name": "Center post",
+			"from": [8, 0, 6],
+			"to": [10, 16, 8],
+			"faces": {
+				"north": {"uv": [10, 0, 12, 16], "texture": "#texture"},
+				"east": {"uv": [13, 0, 15, 16], "texture": "#texture"},
+				"up": {"uv": [10, 4, 12, 6], "texture": "#texture", "cullface": "up"},
+				"down": {"uv": [14, 10, 16, 12], "texture": "#texture", "cullface": "down"}
+			}
+		},
+		{
+			"name": "Center post",
+			"from": [6, 0, 6],
+			"to": [8, 16, 8],
+			"faces": {
+				"north": {"uv": [13, 0, 15, 16], "texture": "#texture"},
+				"west": {"uv": [6, 0, 8, 16], "texture": "#texture"},
+				"up": {"uv": [5, 4, 7, 6], "texture": "#texture", "cullface": "up"},
+				"down": {"uv": [7, 14, 9, 16], "texture": "#texture", "cullface": "down"}
+			}
+		}
+	]
+}
