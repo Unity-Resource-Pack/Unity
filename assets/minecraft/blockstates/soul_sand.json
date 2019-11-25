@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/soul_sand", "weight": 12 },
+            { "model": "block/soul_sand", "x": 90, "weight": 17 },
+            { "model": "block/soul_sand", "x": 180, "weight": 8 },
+            { "model": "block/soul_sand", "x": 270, "weight": 5 },
+            { "model": "block/soul_sand", "y": 90, "weight": 15 },
+            { "model": "block/soul_sand", "y": 90, "x": 90, "weight": 14 },
+            { "model": "block/soul_sand", "y": 90, "x": 180, "weight": 6 },
+            { "model": "block/soul_sand", "y": 90, "x": 270, "weight": 25 },
+            { "model": "block/soul_sand", "y": 180, "weight": 21 },
+            { "model": "block/soul_sand", "y": 180, "x": 90, "weight": 16 },
+            { "model": "block/soul_sand", "y": 180, "x": 180, "weight": 10 },
+            { "model": "block/soul_sand", "y": 180, "x": 270, "weight": 6 },
+            { "model": "block/soul_sand", "y": 270, "weight": 15 },
+            { "model": "block/soul_sand", "y": 270, "x": 90, "weight": 6 },
+            { "model": "block/soul_sand", "y": 270, "x": 180, "weight": 4 },
+            { "model": "block/soul_sand", "y": 270, "x": 270, "weight": 9 }
+        ]
+    }
+}
