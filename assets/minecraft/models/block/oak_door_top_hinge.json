@@ -2,7 +2,8 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"1": "block/oak_door_top"
+		"1": "block/oak_door_top",
+		"particle": "block/oak_door_top"
 	},
 	"elements": [
 		{
