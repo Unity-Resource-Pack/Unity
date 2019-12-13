@@ -4,7 +4,7 @@
         "particle": "block/dirt",
         "bottom": "unity:block/dirt_alt2",
         "top": "unity:block/grass_block_alt2",
-        "side": "unity:block/grass_block_side_alt1",
-        "overlay": "unity:block/grass_block_side_overlay_alt3"
+        "side": "unity:block/grass_block_side_alt2",
+        "overlay": "unity:block/grass_block_side_overlay_alt2"
     }
 }

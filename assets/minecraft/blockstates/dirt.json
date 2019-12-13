@@ -1,14 +1,32 @@
 {
     "variants": {
         "": [
-            { "model": "block/dirt", "weight": 20 },
-            { "model": "block/dirt", "weight": 5, "y": 180 },
-            { "model": "unity:block/dirt_alt", "weight": 5 },
-            { "model": "unity:block/dirt_alt", "weight": 3, "y": 180 },
-            { "model": "unity:block/dirt_alt2", "weight": 2 },
-            { "model": "unity:block/dirt_alt2", "weight": 3, "y": 90 },
-            { "model": "unity:block/dirt_alt2", "weight": 2, "y": 180 },
-            { "model": "unity:block/dirt_alt2", "weight": 3, "y": 270 }
+            { "model": "block/dirt", "weight": 25 },
+            { "model": "block/dirt", "weight": 15, "y": 180 },
+            { "model": "unity:block/dirt_alt", "weight": 2 },
+            { "model": "unity:block/dirt_alt", "weight": 7, "y": 90 },
+            { "model": "unity:block/dirt_alt", "weight": 2, "y": 180 },
+            { "model": "unity:block/dirt_alt", "weight": 1, "y": 270 },
+            { "model": "unity:block/dirt_alt2", "weight": 8 },
+            { "model": "unity:block/dirt_alt2", "weight": 13, "y": 90 },
+            { "model": "unity:block/dirt_alt2", "weight": 7, "y": 180 },
+            { "model": "unity:block/dirt_alt2", "weight": 9, "y": 270 },
+            { "model": "unity:block/dirt_alt3", "weight": 9 },
+            { "model": "unity:block/dirt_alt3", "weight": 8, "y": 180 },
+            { "model": "unity:block/dirt_alt4", "weight": 2 },
+            { "model": "unity:block/dirt_alt4", "weight": 1, "y": 180 },
+            { "model": "unity:block/dirt_alt5", "weight": 2 },
+            { "model": "unity:block/dirt_alt5", "weight": 1, "y": 90 },
+            { "model": "unity:block/dirt_alt5", "weight": 1, "y": 180 },
+            { "model": "unity:block/dirt_alt5", "weight": 1, "y": 270 },
+            { "model": "unity:block/dirt_alt6", "weight": 2 },
+            { "model": "unity:block/dirt_alt6", "weight": 2, "y": 90 },
+            { "model": "unity:block/dirt_alt6", "weight": 1, "y": 180 },
+            { "model": "unity:block/dirt_alt6", "weight": 1, "y": 270 },
+            { "model": "unity:block/dirt_alt7", "weight": 2 },
+            { "model": "unity:block/dirt_alt7", "weight": 2, "y": 90 },
+            { "model": "unity:block/dirt_alt7", "weight": 1, "y": 180 },
+            { "model": "unity:block/dirt_alt7", "weight": 2, "y": 270 }
         ]
     }
 }
