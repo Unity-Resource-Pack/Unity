@@ -1,0 +1,8 @@
+{
+    "parent": "block/cube_bottom_top",
+    "textures": {
+        "bottom": "unity:block/dirt_alt5",
+        "top": "unity:block/podzol_top_alt5",
+        "side": "block/podzol_side"
+    }
+}
