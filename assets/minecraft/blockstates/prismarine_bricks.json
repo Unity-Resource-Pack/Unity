@@ -1,0 +1,11 @@
+{
+    "variants": {
+        "": [
+          { "model": "block/prismarine_bricks", "weight": 4 },
+          { "model": "unity:block/prismarine_bricks_alt", "weight": 1 },
+          { "model": "unity:block/prismarine_bricks_alt2", "weight": 5 },
+          { "model": "unity:block/prismarine_bricks_alt3", "weight": 3 },
+          { "model": "unity:block/prismarine_bricks_alt4", "weight": 4 }
+        ]
+    }
+}

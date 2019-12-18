@@ -1,13 +1,14 @@
 {
     "variants": {
         "": [
-            { "model": "block/stone", "weight": 45 },
+            { "model": "block/stone", "weight": 12 },
             { "model": "block/stone_mirrored", "weight": 25 },
             { "model": "unity:block/stone_rough", "weight": 15 },
             { "model": "unity:block/stone_cracked", "weight": 5 },
             { "model": "unity:block/stone_smooth", "weight": 30 },
             { "model": "unity:block/stone_dirty", "weight": 10 },
-            { "model": "unity:block/stone_shifted", "weight": 40 }
+            { "model": "unity:block/stone_shifted", "weight": 30 },
+            { "model": "unity:block/stone_alt", "weight": 40 }
         ]
     }
 }

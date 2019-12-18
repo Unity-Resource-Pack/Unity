@@ -1,0 +1,43 @@
+{
+    "variants": {
+        "snowy=false": [
+            { "model": "block/podzol", "weight": 22 },
+            { "model": "block/podzol", "weight": 11, "y": 90 },
+            { "model": "block/podzol", "weight": 29, "y": 180 },
+            { "model": "block/podzol", "weight": 25, "y": 270 },
+            { "model": "unity:block/podzol_alt", "weight": 17 },
+            { "model": "unity:block/podzol_alt", "weight": 18, "y": 90 },
+            { "model": "unity:block/podzol_alt", "weight": 13, "y": 180 },
+            { "model": "unity:block/podzol_alt", "weight": 16, "y": 270 },
+            { "model": "unity:block/podzol_alt2", "weight": 12 },
+            { "model": "unity:block/podzol_alt2", "weight": 16, "y": 90 },
+            { "model": "unity:block/podzol_alt2", "weight": 14, "y": 180 },
+            { "model": "unity:block/podzol_alt2", "weight": 19, "y": 270 },
+            { "model": "unity:block/podzol_alt3", "weight": 5 },
+            { "model": "unity:block/podzol_alt3", "weight": 9, "y": 90 },
+            { "model": "unity:block/podzol_alt3", "weight": 4, "y": 180 },
+            { "model": "unity:block/podzol_alt3", "weight": 8, "y": 270 },
+            { "model": "unity:block/podzol_alt4", "weight": 9 },
+            { "model": "unity:block/podzol_alt4", "weight": 7, "y": 90 },
+            { "model": "unity:block/podzol_alt4", "weight": 5, "y": 180 },
+            { "model": "unity:block/podzol_alt4", "weight": 6, "y": 270 },
+            { "model": "unity:block/podzol_alt5", "weight": 5 },
+            { "model": "unity:block/podzol_alt5", "weight": 7, "y": 90 },
+            { "model": "unity:block/podzol_alt5", "weight": 3, "y": 180 },
+            { "model": "unity:block/podzol_alt5", "weight": 6, "y": 270 },
+            { "model": "unity:block/podzol_alt6", "weight": 2 },
+            { "model": "unity:block/podzol_alt6", "weight": 7, "y": 90 },
+            { "model": "unity:block/podzol_alt6", "weight": 3, "y": 180 },
+            { "model": "unity:block/podzol_alt6", "weight": 6, "y": 270 },
+            { "model": "unity:block/podzol_alt7", "weight": 2 },
+            { "model": "unity:block/podzol_alt7", "weight": 12, "y": 90 },
+            { "model": "unity:block/podzol_alt7", "weight": 8, "y": 180 },
+            { "model": "unity:block/podzol_alt7", "weight": 11, "y": 270 },
+            { "model": "unity:block/podzol_alt8", "weight": 1 },
+            { "model": "unity:block/podzol_alt8", "weight": 2, "y": 90 },
+            { "model": "unity:block/podzol_alt8", "weight": 1, "y": 180 },
+            { "model": "unity:block/podzol_alt8", "weight": 1, "y": 270 }
+        ],
+        "snowy=true": { "model": "block/grass_block_snow" }
+    }
+}

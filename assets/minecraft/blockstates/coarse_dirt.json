@@ -8,7 +8,15 @@
             { "model": "unity:block/coarse_dirt_alt2", "weight": 18 },
             { "model": "unity:block/coarse_dirt_alt2", "weight": 13, "y": 180 },
             { "model": "unity:block/coarse_dirt_alt3", "weight": 8 },
-            { "model": "unity:block/coarse_dirt_alt3", "weight": 9, "y": 180 }
+            { "model": "unity:block/coarse_dirt_alt3", "weight": 9, "y": 180 },
+            { "model": "unity:block/coarse_dirt_alt4", "weight": 8 },
+            { "model": "unity:block/coarse_dirt_alt4", "weight": 9, "y": 180 },
+            { "model": "unity:block/coarse_dirt_alt5", "weight": 8 },
+            { "model": "unity:block/coarse_dirt_alt5", "weight": 9, "y": 180 },
+            { "model": "unity:block/coarse_dirt_alt6", "weight": 8 },
+            { "model": "unity:block/coarse_dirt_alt6", "weight": 9, "y": 180 },
+            { "model": "unity:block/coarse_dirt_alt7", "weight": 8 },
+            { "model": "unity:block/coarse_dirt_alt7", "weight": 9, "y": 180 }
         ]
     }
 }
