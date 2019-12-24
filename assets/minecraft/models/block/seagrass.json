@@ -1,10 +1,9 @@
 {
-	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"1": "unity:block/seagrass_roots_alt",
-		"particle": "unity:block/seagrass_alt2",
-		"cross": "unity:block/seagrass_alt2"
+		"1": "block/seagrass_roots",
+		"particle": "block/seagrass",
+		"cross": "block/seagrass"
 	},
 	"elements": [
 		{
@@ -30,8 +29,8 @@
 			"shade": false,
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8], "rescale": true},
 			"faces": {
-				"east": {"uv": [0, 0, 16, 16], "texture": "#cross"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#cross"}
+				"east": {"uv": [16, 0, 0, 16], "texture": "#cross"},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#cross"}
 			}
 		},
 		{
@@ -51,7 +50,7 @@
 			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8], "rescale": true},
 			"faces": {
 				"north": {"uv": [16, 0, 0, 16], "texture": "#cross"},
-				"south": {"uv": [16, 0, 0, 16], "texture": "#cross"}
+				"south": {"uv": [0, 0, 16, 16], "texture": "#cross"}
 			}
 		}
 	]
