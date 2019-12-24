@@ -2,13 +2,9 @@
     "variants": {
         "": [
           { "model": "block/prismarine", "weight": 16 },
-          { "model": "block/prismarine", "y": 90, "x": 270, "weight": 1 },
-          { "model": "block/prismarine", "y": 180, "x": 180, "weight": 1 },
-          { "model": "block/prismarine", "y": 270, "x": 90, "weight": 1 },
-          { "model": "unity:block/prismarine_alt", "weight": 16 },
-          { "model": "unity:block/prismarine_alt", "y": 90, "x": 270, "weight": 1 },
-          { "model": "unity:block/prismarine_alt", "y": 180, "x": 180, "weight": 1 },
-          { "model": "unity:block/prismarine_alt", "y": 270, "x": 90, "weight": 1 }
+          { "model": "block/prismarine", "weight": 8, "x": 90 },
+          { "model": "block/prismarine", "weight": 8, "x": 180 },
+          { "model": "block/prismarine", "weight": 8, "x": 270 }
         ]
     }
 }
