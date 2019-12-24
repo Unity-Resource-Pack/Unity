@@ -1,5 +1,5 @@
 {
-    "parent": "block/seagrass",
+    "parent": "block/template_tall_seagrass_bottom",
     "textures": {
         "seagrass": "unity:block/tall_seagrass_bottom_alt",
         "particle": "unity:block/tall_seagrass_bottom_alt"

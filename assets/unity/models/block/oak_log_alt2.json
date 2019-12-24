@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "block/oak_log_top",
+        "side": "unity:block/oak_log_alt2"
+    }
+}
