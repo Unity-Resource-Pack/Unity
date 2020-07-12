@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "unity:block/blackstone_top_alt2",
+    "side": "unity:block/blackstone_alt2"
+  }
+}

@@ -1,0 +1,15 @@
+{
+    "variants": {
+        "": [
+            { "model": "minecraft:block/blackstone", "weight": 12 },
+            { "model": "minecraft:block/blackstone","y": 90, "weight": 4 },
+            { "model": "minecraft:block/blackstone","y": 180, "weight": 6 },
+            { "model": "unity:block/blackstone_alt", "weight": 15 },
+            { "model": "unity:block/blackstone_alt","y": 90, "weight": 5 },
+            { "model": "unity:block/blackstone_alt","y": 180, "weight": 2 },
+            { "model": "unity:block/blackstone_alt2", "weight": 8 },
+            { "model": "unity:block/blackstone_alt2","y": 90, "weight": 2 },
+            { "model": "unity:block/blackstone_alt2","y": 180, "weight": 3 }
+        ]
+    }
+}
