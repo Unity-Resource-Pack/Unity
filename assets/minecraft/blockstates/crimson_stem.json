@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "axis=y": [
+          { "model": "block/crimson_stem", "weight": 2 },
+          { "model": "unity:block/crimson_stem_alt", "weight": 1 },
+          { "model": "unity:block/crimson_stem_alt2", "weight": 1 },
+          { "model": "unity:block/crimson_stem_alt3", "weight": 1 }
+        ],
+        "axis=z": [
+          { "model": "block/crimson_stem", "x": 90, "weight": 2 },
+          { "model": "unity:block/crimson_stem_alt", "x": 90, "weight": 1 },
+          { "model": "unity:block/crimson_stem_alt2", "x": 90, "weight": 1 },
+          { "model": "unity:block/crimson_stem_alt3", "x": 90, "weight": 1 }
+        ],
+        "axis=x": [
+          { "model": "block/crimson_stem", "x": 90, "y": 90, "weight": 2 },
+          { "model": "unity:block/crimson_stem_alt", "x": 90, "y": 90, "weight": 1 },
+          { "model": "unity:block/crimson_stem_alt2", "x": 90, "y": 90, "weight": 1 },
+          { "model": "unity:block/crimson_stem_alt3", "x": 90, "y": 90, "weight": 1 }
+        ]
+    }
+}

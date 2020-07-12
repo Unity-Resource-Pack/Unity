@@ -1,0 +1,30 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/crimson_nylium", "weight": 20 },
+			      { "model": "block/crimson_nylium", "y": 90, "weight": 8 },
+			      { "model": "block/crimson_nylium", "y": 180, "weight": 15 },
+			      { "model": "block/crimson_nylium", "y": 270, "weight": 5 },
+			      { "model": "unity:block/crimson_nylium_alt", "weight": 10 },
+			      { "model": "unity:block/crimson_nylium_alt", "y": 90, "weight": 8 },
+			      { "model": "unity:block/crimson_nylium_alt", "y": 180, "weight": 15 },
+			      { "model": "unity:block/crimson_nylium_alt", "y": 270, "weight": 12 },
+			      { "model": "unity:block/crimson_nylium_alt2", "weight": 8 },
+			      { "model": "unity:block/crimson_nylium_alt2", "y": 90, "weight": 8 },
+			      { "model": "unity:block/crimson_nylium_alt2", "y": 180, "weight": 13 },
+			      { "model": "unity:block/crimson_nylium_alt2", "y": 270, "weight": 12 },
+			      { "model": "unity:block/crimson_nylium_alt3", "weight": 2 },
+			      { "model": "unity:block/crimson_nylium_alt3", "y": 90, "weight": 1 },
+			      { "model": "unity:block/crimson_nylium_alt3", "y": 180, "weight": 1 },
+			      { "model": "unity:block/crimson_nylium_alt3", "y": 270, "weight": 1 },
+			      { "model": "unity:block/crimson_nylium_alt4", "weight": 1 },
+			      { "model": "unity:block/crimson_nylium_alt4", "y": 90, "weight": 1 },
+			      { "model": "unity:block/crimson_nylium_alt4", "y": 180, "weight": 1 },
+			      { "model": "unity:block/crimson_nylium_alt4", "y": 270, "weight": 1 },
+			      { "model": "unity:block/crimson_nylium_alt5", "weight": 1 },
+			      { "model": "unity:block/crimson_nylium_alt5", "y": 90, "weight": 1 },
+			      { "model": "unity:block/crimson_nylium_alt5", "y": 180, "weight": 1 },
+			      { "model": "unity:block/crimson_nylium_alt5", "y": 270, "weight": 1 }
+        ]
+    }
+}

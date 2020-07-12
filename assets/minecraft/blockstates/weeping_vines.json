@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "": [
+          { "model": "block/weeping_vines" },
+          { "model": "unity:block/weeping_vines_alt" }
+        ]
+    }
+}

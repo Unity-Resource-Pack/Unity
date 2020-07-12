@@ -1,0 +1,18 @@
+{
+    "variants": {
+        "": [
+          { "model": "block/nether_wart_block", "weight": 1 },
+          { "model": "block/nether_wart_block", "weight": 2, "y": 90 },
+          { "model": "block/nether_wart_block", "weight": 6, "y": 180 },
+          { "model": "block/nether_wart_block", "weight": 12, "y": 270 },
+          { "model": "unity:block/nether_wart_block_alt", "weight": 18 },
+          { "model": "unity:block/nether_wart_block_alt", "weight": 25, "y": 180 },
+          { "model": "unity:block/nether_wart_block_alt2", "weight": 2 },
+          { "model": "unity:block/nether_wart_block_alt2", "weight": 3, "y": 180 },
+          { "model": "unity:block/nether_wart_block_alt3", "weight": 22 },
+          { "model": "unity:block/nether_wart_block_alt3", "weight": 1, "y": 180 },
+          { "model": "unity:block/nether_wart_block_alt4", "weight": 13 },
+          { "model": "unity:block/nether_wart_block_alt4", "weight": 1, "y": 180 }
+        ]
+    }
+}
