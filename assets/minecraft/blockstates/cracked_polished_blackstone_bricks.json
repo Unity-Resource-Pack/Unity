@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "": [
+            { "model": "minecraft:block/cracked_polished_blackstone_bricks", "weight": 12 },
+            { "model": "unity:block/cracked_polished_blackstone_bricks_alt", "weight": 10 },
+            { "model": "unity:block/cracked_polished_blackstone_bricks_alt2", "weight": 6 },
+            { "model": "unity:block/cracked_polished_blackstone_bricks_alt3", "weight": 1 }
+        ]
+    }
+}
