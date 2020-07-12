@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "": [
+            { "model": "minecraft:block/gilded_blackstone", "weight": 8 },
+            { "model": "minecraft:block/gilded_blackstone", "y": 180, "weight": 5 },
+            { "model": "unity:block/gilded_blackstone_alt", "weight": 15 },
+            { "model": "unity:block/gilded_blackstone_alt", "y": 180, "weight": 8 },
+            { "model": "unity:block/gilded_blackstone_alt2", "weight": 10 },
+            { "model": "unity:block/gilded_blackstone_alt2", "y": 180, "weight": 12 }
+        ]
+    }
+}
