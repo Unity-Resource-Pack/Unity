@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "unity:block/weeping_vines_plant_alt"
+    }
+}
