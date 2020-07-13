@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "unity:block/basalt_top_alt",
+    "side": "unity:block/basalt_side_alt4"
+  }
+}
