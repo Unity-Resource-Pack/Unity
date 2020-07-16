@@ -9,7 +9,9 @@
             { "model": "unity:block/soul_soil_alt5", "weight": 3 },
             { "model": "unity:block/soul_soil_alt6", "weight": 2 },
             { "model": "unity:block/soul_soil_alt7", "weight": 4 },
-            { "model": "unity:block/soul_soil_alt8", "weight": 4 }
+            { "model": "unity:block/soul_soil_alt8", "weight": 4 },
+            { "model": "unity:block/soul_soil_alt9", "weight": 6 },
+            { "model": "unity:block/soul_soil_alt10", "weight": 3 }
         ]
     }
 }
