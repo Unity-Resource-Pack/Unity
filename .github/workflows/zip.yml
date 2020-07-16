@@ -25,4 +25,8 @@ jobs:
         # Artifact name
         name: unity-${{ steps.extract_branch.outputs.branch }}-${{ steps.extract_ish.outputs.ish }}.${{ github.run_id }}
         # A file, directory or wildcard pattern that describes what to upload
-        path: ./
+        path: |
+          assets/**
+          LICENSE.md
+          pack.mcmeta
+          pack.png
