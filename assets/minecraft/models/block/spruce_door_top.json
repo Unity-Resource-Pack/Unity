@@ -1,7 +1,8 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Model by CyanideX",
 	"ambientocclusion": false,
 	"textures": {
+		"particle": "block/spruce_door_top",
 		"top": "block/spruce_door_top"
 	},
 	"elements": [
