@@ -1,8 +1,9 @@
 {
-	"credit": "Made with Blockbench",
+	"credit": "Model by CyanideX",
 	"parent": "block/template_torch",
 	"textures": {
-		"torch": "block/torch_model"
+		"torch": "block/torch_model",
+		"particle": "block/torch"
 	},
 	"elements": [
 		{

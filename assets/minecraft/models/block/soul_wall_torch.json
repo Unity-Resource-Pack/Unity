@@ -2,7 +2,7 @@
 	"credit": "Model by CyanideX",
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "block/torch_model"
+		"particle": "block/soul_torch"
 	},
 	"elements": [
 		{
