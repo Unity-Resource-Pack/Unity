@@ -1,6 +1,6 @@
 {
     "parent": "block/cube_all",
     "textures": {
-        "all": "unity:block/planks_oak_long"
+        "all": "unity:block/oak_planks_long"
     }
 }
