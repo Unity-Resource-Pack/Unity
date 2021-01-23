@@ -1,7 +1,7 @@
 {
     "parent": "block/cube_bottom_top",
     "textures": {
-        "bottom": "unity:block/dirt_alt8",
+        "bottom": "unity:block/dirt_alt7",
         "top": "unity:block/podzol_top_alt8",
         "side": "block/podzol_side"
     }
