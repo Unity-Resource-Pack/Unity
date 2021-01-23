@@ -4,8 +4,8 @@
 	"textures": {
 		"bottom": "block/end_stone",
 		"top": "block/end_portal_frame_top",
-		"side": "block/end_portal_frame_side",
-		"particle": "block/end_portal_frame_side"
+		"particle": "block/end_portal_frame_side",
+		"side": "block/end_portal_frame_side"
 	},
 	"elements": [
 		{
@@ -39,9 +39,7 @@
 			"to": [12, 14, 4],
 			"faces": {
 				"north": {"uv": [4, 2, 12, 3], "texture": "#top"},
-				"east": {"uv": [0, 0, 2, 1], "texture": "#missing"},
 				"south": {"uv": [4, 3, 12, 4], "texture": "#top"},
-				"west": {"uv": [0, 0, 2, 1], "texture": "#missing"},
 				"up": {"uv": [4, 2, 12, 4], "texture": "#top"}
 			}
 		},
@@ -51,9 +49,7 @@
 			"to": [12, 14, 14],
 			"faces": {
 				"north": {"uv": [4, 12, 12, 13], "texture": "#top"},
-				"east": {"uv": [0, 0, 2, 1], "texture": "#missing"},
 				"south": {"uv": [4, 13, 12, 14], "texture": "#top"},
-				"west": {"uv": [0, 0, 2, 1], "texture": "#missing"},
 				"up": {"uv": [4, 12, 12, 14], "texture": "#top"}
 			}
 		},

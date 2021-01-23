@@ -5,8 +5,8 @@
 		"3": "block/end_portal_frame_eye",
 		"bottom": "block/end_stone",
 		"top": "block/end_portal_frame_top",
-		"side": "block/end_portal_frame_side",
-		"particle": "block/end_portal_frame_side"
+		"particle": "block/end_portal_frame_side",
+		"side": "block/end_portal_frame_side"
 	},
 	"elements": [
 		{
@@ -28,7 +28,6 @@
 			"to": [4, 14, 14],
 			"faces": {
 				"north": {"uv": [12, 13, 14, 14], "texture": "#top"},
-				"east": {"uv": [2, 12, 14, 13], "texture": "#top"},
 				"south": {"uv": [2, 13, 4, 14], "texture": "#top"},
 				"west": {"uv": [2, 13, 14, 14], "texture": "#top"},
 				"up": {"uv": [2, 2, 4, 14], "texture": "#top"}
@@ -40,9 +39,6 @@
 			"to": [12, 14, 4],
 			"faces": {
 				"north": {"uv": [4, 2, 12, 3], "texture": "#top"},
-				"east": {"uv": [0, 0, 2, 1], "texture": "#missing"},
-				"south": {"uv": [4, 3, 12, 4], "texture": "#top"},
-				"west": {"uv": [0, 0, 2, 1], "texture": "#missing"},
 				"up": {"uv": [4, 2, 12, 4], "texture": "#top"}
 			}
 		},
@@ -51,10 +47,7 @@
 			"from": [4, 13, 12],
 			"to": [12, 14, 14],
 			"faces": {
-				"north": {"uv": [4, 12, 12, 13], "texture": "#top"},
-				"east": {"uv": [0, 0, 2, 1], "texture": "#missing"},
 				"south": {"uv": [4, 13, 12, 14], "texture": "#top"},
-				"west": {"uv": [0, 0, 2, 1], "texture": "#missing"},
 				"up": {"uv": [4, 12, 12, 14], "texture": "#top"}
 			}
 		},
@@ -66,7 +59,6 @@
 				"north": {"uv": [2, 2, 4, 3], "texture": "#top"},
 				"east": {"uv": [2, 2, 14, 3], "texture": "#top"},
 				"south": {"uv": [12, 13, 14, 14], "texture": "#top"},
-				"west": {"uv": [2, 3, 14, 4], "texture": "#top"},
 				"up": {"uv": [12, 2, 14, 14], "texture": "#top"}
 			}
 		},
