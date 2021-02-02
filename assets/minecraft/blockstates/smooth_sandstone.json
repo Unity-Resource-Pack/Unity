@@ -1,0 +1,22 @@
+{
+    "variants": {
+			"": [
+					{ "model": "minecraft:block/smooth_sandstone", "weight": 20 },
+					{ "model": "minecraft:block/smooth_sandstone", "weight": 2, "y": 90 },
+					{ "model": "minecraft:block/smooth_sandstone", "weight": 8, "y": 180 },
+					{ "model": "minecraft:block/smooth_sandstone", "weight": 1, "y": 270 },
+					{ "model": "minecraft:block/smooth_sandstone", "weight": 20, "x": 90 },
+					{ "model": "minecraft:block/smooth_sandstone", "weight": 3, "x": 90, "y": 90 },
+					{ "model": "minecraft:block/smooth_sandstone", "weight": 2, "x": 90, "y": 180 },
+					{ "model": "minecraft:block/smooth_sandstone", "weight": 1, "x": 90, "y": 270 },
+					{ "model": "minecraft:block/smooth_sandstone", "weight": 20, "x": 180 },
+					{ "model": "minecraft:block/smooth_sandstone", "weight": 3, "x": 180, "y": 90 },
+					{ "model": "minecraft:block/smooth_sandstone", "weight": 2, "x": 180, "y": 180 },
+					{ "model": "minecraft:block/smooth_sandstone", "weight": 1, "x": 180, "y": 270 },
+					{ "model": "minecraft:block/smooth_sandstone", "weight": 20, "x": 270 },
+					{ "model": "minecraft:block/smooth_sandstone", "weight": 3, "x": 270, "y": 90 },
+					{ "model": "minecraft:block/smooth_sandstone", "weight": 2, "x": 270, "y": 180 },
+					{ "model": "minecraft:block/smooth_sandstone", "weight": 1, "x": 270, "y": 270 }
+			]
+    }
+}
