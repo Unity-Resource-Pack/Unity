@@ -1,4 +1,4 @@
-![alt tag](https://i.imgur.com/ruLc78Z.png)
+![alt tag](https://i.imgur.com/CriaSHB.png)
 
 Updates
 ------
