@@ -1,8 +1,8 @@
-![alt tag](https://i.imgur.com/Xo6CNqP.png)
+![alt tag](https://i.imgur.com/ruLc78Z.png)
 
 Updates
 ------
-We're back, baby!
+We're back... kinda. I'm going to try to slowly update the pack for 1.18 but it may be at a snails pace without my usual helpers.
 
 For older, deprecated versions look in the branch section.
 
