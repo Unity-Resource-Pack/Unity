@@ -1,0 +1,6 @@
+{
+    "parent": "block/leaves",
+    "textures": {
+        "all": "unity:block/flowering_azalea_leaves_alt3"
+    }
+}
