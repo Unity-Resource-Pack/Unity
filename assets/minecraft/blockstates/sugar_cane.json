@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "": [
+            { "model": "minecraft:block/sugar_cane", "weight": 2 },
+            { "model": "unity:block/sugar_cane_alt", "weight": 1 },
+            { "model": "unity:block/sugar_cane_alt2", "weight": 1 }
+        ]
+    }
+}
