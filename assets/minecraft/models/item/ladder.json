@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "unity:block/ladder_step",
 		"1": "unity:block/ladder_pole",
-		"particle": "unity:block/oak_planks"
+		"particle": "block/oak_planks"
 	},
 	"elements": [
 		{
