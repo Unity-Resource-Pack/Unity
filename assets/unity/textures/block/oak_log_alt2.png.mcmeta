@@ -1,0 +1,7 @@
+{
+	"ctm": {
+		"ctm_version": 1,
+		"type": "ctm",
+		"textures": [ "unity:block/oak_log_alt2_ctm" ]
+	}
+}
