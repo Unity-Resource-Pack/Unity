@@ -1,29 +1,29 @@
 name: ZIP
 
-on: [push]
+on: [push, workflow_dispatch]
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
-    
+    - uses: actions/checkout@v3
+
     - name: Extract branch name
       shell: bash
-      run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
+      run: echo "branch=$(echo ${GITHUB_REF#refs/heads/})" >> $GITHUB_OUTPUT
       id: extract_branch
-    
+
     - name: Extract commit ish
       shell: bash
-      run: echo "##[set-output name=ish;]$(echo ${GITHUB_SHA::7})"
+      run: echo "ish=$(echo ${GITHUB_SHA::7})" >> $GITHUB_OUTPUT
       id: extract_ish
 
     - name: Upload a Build Artifact
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v3
       with:
         # Artifact name
-        name: unity-${{ steps.extract_branch.outputs.branch }}-${{ steps.extract_ish.outputs.ish }}.${{ github.run_id }}
+        name: unity-base-${{ steps.extract_branch.outputs.branch }}-${{ steps.extract_ish.outputs.ish }}.${{ github.run_id }}
         # A file, directory or wildcard pattern that describes what to upload
         path: |
           assets/**
