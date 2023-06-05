@@ -1,5 +1,5 @@
 {
-	"credit": "Model by CyanideX",
+	"credit": "Made with Blockbench",
 	"parent": "block/block",
 	"textures": {
 		"particle": "block/soul_lantern",
@@ -52,40 +52,38 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [75, 45, 0],
-			"translation": [0, 1.25, 0],
-			"scale": [0.375, 0.375, 0.375]
+			"rotation": [70, 45, 0],
+			"translation": [0, 0.25, -0.75],
+			"scale": [0.65, 0.65, 0.65]
 		},
 		"thirdperson_lefthand": {
-			"rotation": [75, 45, 0],
-			"translation": [0, 1.25, 0],
-			"scale": [0.375, 0.375, 0.375]
+			"rotation": [70, 45, 0],
+			"translation": [0, 0.25, -0.75],
+			"scale": [0.65, 0.65, 0.65]
 		},
 		"firstperson_righthand": {
 			"rotation": [0, 45, 0],
-			"translation": [0, 4.5, 0],
+			"translation": [2.75, 18, -1.25],
 			"scale": [0.8, 0.8, 0.8]
 		},
 		"firstperson_lefthand": {
 			"rotation": [0, 45, 0],
-			"translation": [0, 4.5, 0],
+			"translation": [2.75, 18, -1.25],
 			"scale": [0.8, 0.8, 0.8]
 		},
 		"ground": {
 			"translation": [0, 3, 0],
-			"scale": [0.4, 0.4, 0.4]
+			"scale": [0.7, 0.7, 0.7]
 		},
 		"gui": {
 			"rotation": [30, 45, 0],
-			"translation": [0, 1.5, 0],
-			"scale": [0.8, 0.8, 0.8]
+			"translation": [0, 2.5, 0]
 		},
 		"head": {
 			"translation": [0, 15, 0]
 		},
 		"fixed": {
-			"translation": [0, 2.5, 0],
-			"scale": [0.8, 0.8, 0.8]
+			"translation": [0, 2.5, 0]
 		}
 	}
 }
