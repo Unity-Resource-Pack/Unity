@@ -1,6 +1,0 @@
-{
-    "parent": "block/cube_all",
-    "textures": {
-        "all": "unity:block/nether_wart_block_alt3"
-    }
-}

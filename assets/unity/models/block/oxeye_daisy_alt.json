@@ -1,6 +1,0 @@
-{
-    "parent": "block/cross",
-    "textures": {
-        "cross": "unity:block/oxeye_daisy_alt"
-    }
-}

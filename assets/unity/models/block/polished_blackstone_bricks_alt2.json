@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/cube_all",
-  "textures": {
-    "all": "unity:block/polished_blackstone_bricks_alt2"
-  }
-}

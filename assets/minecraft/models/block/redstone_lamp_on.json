@@ -1,6 +1,0 @@
-{
-  "parent": "unity:block/cube_shadeless_all",
-  "textures": {
-    "all": "minecraft:block/redstone_lamp_on"
-  }
-}

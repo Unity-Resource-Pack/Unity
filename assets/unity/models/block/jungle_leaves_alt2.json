@@ -1,6 +1,0 @@
-	{
-    "parent": "block/leaves",
-    "textures": {
-        "all": "unity:block/jungle_leaves_alt2"
-    }
-}

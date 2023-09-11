@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "": [
-          { "model": "block/prismarine_bricks", "weight": 4 },
-          { "model": "unity:block/prismarine_bricks_dark", "weight": 1 }
-        ]
-    }
-}

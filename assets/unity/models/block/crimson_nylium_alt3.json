@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/cube_bottom_top",
-  "textures": {
-    "top": "unity:block/crimson_nylium_alt3",
-    "bottom": "unity:block/netherrack_alt3",
-    "side": "unity:block/crimson_nylium_side_alt3"
-  }
-}

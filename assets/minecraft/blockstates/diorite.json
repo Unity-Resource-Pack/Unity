@@ -1,8 +1,0 @@
-{
-  "variants": {
-      "": [
-          { "model": "minecraft:block/diorite", "weight": 12 },
-          { "model": "minecraft:block/diorite", "y": 180, "weight": 7 }
-      ]
-  }
-}

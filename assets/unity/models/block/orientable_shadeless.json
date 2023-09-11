@@ -1,6 +1,0 @@
-{
-  "parent": "unity:block/orientable_shadeless_with_bottom",
-  "textures": {
-    "bottom": "#top"
-  }
-}

@@ -1,9 +1,0 @@
-{
-    "variants": {
-        "": [
-          { "model": "block/crimson_roots", "weight": 5 },
-          { "model": "unity:block/crimson_roots_alt", "weight": 2 },
-          { "model": "unity:block/crimson_roots_alt2", "weight": 1 }
-        ]
-    }
-}

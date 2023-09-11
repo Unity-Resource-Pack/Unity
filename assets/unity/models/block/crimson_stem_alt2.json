@@ -1,7 +1,0 @@
-{
-    "parent": "block/cube_column",
-    "textures": {
-        "end": "block/crimson_stem_top",
-        "side": "unity:block/crimson_stem_alt2"
-    }
-}

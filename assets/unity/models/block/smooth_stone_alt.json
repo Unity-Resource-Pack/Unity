@@ -1,6 +1,0 @@
-{
-    "parent": "block/cube_all",
-    "textures": {
-        "all": "unity:block/smooth_stone_alt"
-    }
-}

@@ -1,8 +1,0 @@
-{
-  "parent": "unity:block/orientable_shadeless",
-  "textures": {
-    "top": "minecraft:block/pumpkin_top",
-    "front": "minecraft:block/jack_o_lantern",
-    "side": "minecraft:block/pumpkin_side"
-  }
-}
