@@ -47,3 +47,5 @@ $RECYCLE.BIN/
 ### Linux ###
 # Ubuntu temp save files
 *~
+*.zip
+*.pdn
